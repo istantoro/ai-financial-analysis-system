@@ -1,0 +1,571 @@
+id,snapshot_id,period,period_type,year,month,segment,category,actual,target
+fm_2022_mpo_tad_pendapatan,snapshot_istantoro_2022_mar_2026,2022,annual,2022,,MPO - TAD,pendapatan,2879164220758.0,3158715105066.0
+fm_2022_mpo_tad_beban_operasional,snapshot_istantoro_2022_mar_2026,2022,annual,2022,,MPO - TAD,beban_operasional,2822903853516.0,2989948612522.0
+fm_2022_mpo_tad_pendapatan_non_operasional,snapshot_istantoro_2022_mar_2026,2022,annual,2022,,MPO - TAD,pendapatan_non_operasional,10747455897.0,5518979146.0
+fm_2022_mpo_tad_beban_non_operasional,snapshot_istantoro_2022_mar_2026,2022,annual,2022,,MPO - TAD,beban_non_operasional,1102502600.0,2467842476.0
+fm_2022_mpo_tad_laba_usaha,snapshot_istantoro_2022_mar_2026,2022,annual,2022,,MPO - TAD,laba_usaha,207204989974.0,220851855162.0
+fm_2022_mpo_tad_laba_sebelum_pajak,snapshot_istantoro_2022_mar_2026,2022,annual,2022,,MPO - TAD,laba_sebelum_pajak,216292735902.0,225169467337.0
+fm_2022_mpo_rab_pendapatan,snapshot_istantoro_2022_mar_2026,2022,annual,2022,,MPO - RAB,pendapatan,34449032504.0,29877636256.0
+fm_2022_mpo_rab_beban_operasional,snapshot_istantoro_2022_mar_2026,2022,annual,2022,,MPO - RAB,beban_operasional,7298704172.0,4695790446.0
+fm_2022_mpo_rab_pendapatan_non_operasional,snapshot_istantoro_2022_mar_2026,2022,annual,2022,,MPO - RAB,pendapatan_non_operasional,131150925.0,53684993.0
+fm_2022_mpo_rab_beban_non_operasional,snapshot_istantoro_2022_mar_2026,2022,annual,2022,,MPO - RAB,beban_non_operasional,13775784.0,23350564.0
+fm_2022_mpo_rab_laba_usaha,snapshot_istantoro_2022_mar_2026,2022,annual,2022,,MPO - RAB,laba_usaha,27610546102.0,25881785651.0
+fm_2022_mpo_rab_laba_sebelum_pajak,snapshot_istantoro_2022_mar_2026,2022,annual,2022,,MPO - RAB,laba_sebelum_pajak,30485484655.0,26723558896.0
+fm_2022_bpo_pendapatan,snapshot_istantoro_2022_mar_2026,2022,annual,2022,,BPO,pendapatan,163526215098.0,116436427782.0
+fm_2022_bpo_beban_operasional,snapshot_istantoro_2022_mar_2026,2022,annual,2022,,BPO,beban_operasional,110844635611.0,85332309595.0
+fm_2022_bpo_pendapatan_non_operasional,snapshot_istantoro_2022_mar_2026,2022,annual,2022,,BPO,pendapatan_non_operasional,551997929.0,206614350.0
+fm_2022_bpo_beban_non_operasional,snapshot_istantoro_2022_mar_2026,2022,annual,2022,,BPO,beban_non_operasional,57382417.0,89014015.0
+fm_2022_bpo_laba_usaha,snapshot_istantoro_2022_mar_2026,2022,annual,2022,,BPO,laba_usaha,43273156747.0,29499516133.0
+fm_2022_bpo_laba_sebelum_pajak,snapshot_istantoro_2022_mar_2026,2022,annual,2022,,BPO,laba_sebelum_pajak,44758588654.0,29707803149.0
+fm_2022_kpo_diklat_pendapatan,snapshot_istantoro_2022_mar_2026,2022,annual,2022,,KPO - DIKLAT,pendapatan,15859313965.0,11930858139.0
+fm_2022_kpo_diklat_beban_operasional,snapshot_istantoro_2022_mar_2026,2022,annual,2022,,KPO - DIKLAT,beban_operasional,13785283032.0,10300280980.0
+fm_2022_kpo_diklat_pendapatan_non_operasional,snapshot_istantoro_2022_mar_2026,2022,annual,2022,,KPO - DIKLAT,pendapatan_non_operasional,58167001.0,21007572.0
+fm_2022_kpo_diklat_beban_non_operasional,snapshot_istantoro_2022_mar_2026,2022,annual,2022,,KPO - DIKLAT,beban_non_operasional,5763293.0,9552803.0
+fm_2022_kpo_diklat_laba_usaha,snapshot_istantoro_2022_mar_2026,2022,annual,2022,,KPO - DIKLAT,laba_usaha,1849508961.0,1651072433.0
+fm_2022_kpo_diklat_laba_sebelum_pajak,snapshot_istantoro_2022_mar_2026,2022,annual,2022,,KPO - DIKLAT,laba_sebelum_pajak,1914382782.0,1679502672.0
+fm_2022_kpo_training_pendapatan,snapshot_istantoro_2022_mar_2026,2022,annual,2022,,KPO - TRAINING,pendapatan,1491351294.0,796522083.0
+fm_2022_kpo_training_beban_operasional,snapshot_istantoro_2022_mar_2026,2022,annual,2022,,KPO - TRAINING,beban_operasional,1026967109.0,310713812.0
+fm_2022_kpo_training_pendapatan_non_operasional,snapshot_istantoro_2022_mar_2026,2022,annual,2022,,KPO - TRAINING,pendapatan_non_operasional,5234136.0,1382741.0
+fm_2022_kpo_training_beban_non_operasional,snapshot_istantoro_2022_mar_2026,2022,annual,2022,,KPO - TRAINING,beban_non_operasional,561663.0,592049.0
+fm_2022_kpo_training_laba_usaha,snapshot_istantoro_2022_mar_2026,2022,annual,2022,,KPO - TRAINING,laba_usaha,504054753.0,458181631.0
+fm_2022_kpo_training_laba_sebelum_pajak,snapshot_istantoro_2022_mar_2026,2022,annual,2022,,KPO - TRAINING,laba_sebelum_pajak,481403189.0,454684628.0
+fm_2023_mpo_tad_pendapatan,snapshot_istantoro_2022_mar_2026,2023,annual,2023,,MPO - TAD,pendapatan,2963250337924.0,3008111212722.0
+fm_2023_mpo_tad_beban_operasional,snapshot_istantoro_2022_mar_2026,2023,annual,2023,,MPO - TAD,beban_operasional,2610747444487.0,2817930516213.0
+fm_2023_mpo_tad_pendapatan_non_operasional,snapshot_istantoro_2022_mar_2026,2023,annual,2023,,MPO - TAD,pendapatan_non_operasional,11146836963.0,7685287611.0
+fm_2023_mpo_tad_beban_non_operasional,snapshot_istantoro_2022_mar_2026,2023,annual,2023,,MPO - TAD,beban_non_operasional,943951106.0,1547884856.0
+fm_2023_mpo_tad_laba_usaha,snapshot_istantoro_2022_mar_2026,2023,annual,2023,,MPO - TAD,laba_usaha,242829113712.0,208352507199.0
+fm_2023_mpo_tad_laba_sebelum_pajak,snapshot_istantoro_2022_mar_2026,2023,annual,2023,,MPO - TAD,laba_sebelum_pajak,250262723010.0,218939135422.0
+fm_2023_mpo_rab_pendapatan,snapshot_istantoro_2022_mar_2026,2023,annual,2023,,MPO - RAB,pendapatan,48570892747.0,50615349197.0
+fm_2023_mpo_rab_beban_operasional,snapshot_istantoro_2022_mar_2026,2023,annual,2023,,MPO - RAB,beban_operasional,12483673238.0,9760785575.0
+fm_2023_mpo_rab_pendapatan_non_operasional,snapshot_istantoro_2022_mar_2026,2023,annual,2023,,MPO - RAB,pendapatan_non_operasional,200546732.0,131596200.0
+fm_2023_mpo_rab_beban_non_operasional,snapshot_istantoro_2022_mar_2026,2023,annual,2023,,MPO - RAB,beban_non_operasional,15173840.0,26947526.0
+fm_2023_mpo_rab_laba_usaha,snapshot_istantoro_2022_mar_2026,2023,annual,2023,,MPO - RAB,laba_usaha,35151069019.0,40530107722.0
+fm_2023_mpo_rab_laba_sebelum_pajak,snapshot_istantoro_2022_mar_2026,2023,annual,2023,,MPO - RAB,laba_sebelum_pajak,36695779007.0,42537875461.0
+fm_2023_bpo_pendapatan,snapshot_istantoro_2022_mar_2026,2023,annual,2023,,BPO,pendapatan,312083498451.0,197044468933.0
+fm_2023_bpo_beban_operasional,snapshot_istantoro_2022_mar_2026,2023,annual,2023,,BPO,beban_operasional,281858431230.0,126442615594.0
+fm_2023_bpo_pendapatan_non_operasional,snapshot_istantoro_2022_mar_2026,2023,annual,2023,,BPO,pendapatan_non_operasional,1269741031.0,510531891.0
+fm_2023_bpo_beban_non_operasional,snapshot_istantoro_2022_mar_2026,2023,annual,2023,,BPO,beban_non_operasional,102502943.0,103671174.0
+fm_2023_bpo_laba_usaha,snapshot_istantoro_2022_mar_2026,2023,annual,2023,,BPO,laba_usaha,55484272193.0,64112471315.0
+fm_2023_bpo_laba_sebelum_pajak,snapshot_istantoro_2022_mar_2026,2023,annual,2023,,BPO,laba_sebelum_pajak,57865182282.0,65357941862.0
+fm_2023_kpo_diklat_pendapatan,snapshot_istantoro_2022_mar_2026,2023,annual,2023,,KPO - DIKLAT,pendapatan,17498042626.0,17359543186.0
+fm_2023_kpo_diklat_beban_operasional,snapshot_istantoro_2022_mar_2026,2023,annual,2023,,KPO - DIKLAT,beban_operasional,14960606617.0,14629010358.0
+fm_2023_kpo_diklat_pendapatan_non_operasional,snapshot_istantoro_2022_mar_2026,2023,annual,2023,,KPO - DIKLAT,pendapatan_non_operasional,72483092.0,42705515.0
+fm_2023_kpo_diklat_beban_non_operasional,snapshot_istantoro_2022_mar_2026,2023,annual,2023,,KPO - DIKLAT,beban_non_operasional,5514548.0,8661126.0
+fm_2023_kpo_diklat_laba_usaha,snapshot_istantoro_2022_mar_2026,2023,annual,2023,,KPO - DIKLAT,laba_usaha,2055812362.0,2611609525.0
+fm_2023_kpo_diklat_laba_sebelum_pajak,snapshot_istantoro_2022_mar_2026,2023,annual,2023,,KPO - DIKLAT,laba_sebelum_pajak,2113402094.0,2664303273.0
+fm_2023_kpo_training_pendapatan,snapshot_istantoro_2022_mar_2026,2023,annual,2023,,KPO - TRAINING,pendapatan,10682029298.0,2199011151.0
+fm_2023_kpo_training_beban_operasional,snapshot_istantoro_2022_mar_2026,2023,annual,2023,,KPO - TRAINING,beban_operasional,7146880571.0,1444951761.0
+fm_2023_kpo_training_pendapatan_non_operasional,snapshot_istantoro_2022_mar_2026,2023,annual,2023,,KPO - TRAINING,pendapatan_non_operasional,40319459.0,5563282.0
+fm_2023_kpo_training_beban_non_operasional,snapshot_istantoro_2022_mar_2026,2023,annual,2023,,KPO - TRAINING,beban_non_operasional,3160614.0,1145885.0
+fm_2023_kpo_training_laba_usaha,snapshot_istantoro_2022_mar_2026,2023,annual,2023,,KPO - TRAINING,laba_usaha,3551673193.0,706898811.0
+fm_2023_kpo_training_laba_sebelum_pajak,snapshot_istantoro_2022_mar_2026,2023,annual,2023,,KPO - TRAINING,laba_sebelum_pajak,3694009009.0,720692083.0
+fm_2024_mpo_tad_pendapatan,snapshot_istantoro_2022_mar_2026,2024,annual,2024,,MPO - TAD,pendapatan,3286509379384.0,3108362152818.0
+fm_2024_mpo_tad_beban_operasional,snapshot_istantoro_2022_mar_2026,2024,annual,2024,,MPO - TAD,beban_operasional,2969549677401.0,2923589092893.0
+fm_2024_mpo_tad_pendapatan_non_operasional,snapshot_istantoro_2022_mar_2026,2024,annual,2024,,MPO - TAD,pendapatan_non_operasional,13163013621.0,7842658061.0
+fm_2024_mpo_tad_beban_non_operasional,snapshot_istantoro_2022_mar_2026,2024,annual,2024,,MPO - TAD,beban_non_operasional,458042734.0,1590107773.0
+fm_2024_mpo_tad_laba_usaha,snapshot_istantoro_2022_mar_2026,2024,annual,2024,,MPO - TAD,laba_usaha,278238244781.0,208180273096.0
+fm_2024_mpo_tad_laba_sebelum_pajak,snapshot_istantoro_2022_mar_2026,2024,annual,2024,,MPO - TAD,laba_sebelum_pajak,298016373274.0,218763135546.0
+fm_2024_mpo_rab_pendapatan,snapshot_istantoro_2022_mar_2026,2024,annual,2024,,MPO - RAB,pendapatan,30131513253.0,51624019284.0
+fm_2024_mpo_rab_beban_operasional,snapshot_istantoro_2022_mar_2026,2024,annual,2024,,MPO - RAB,beban_operasional,15750407402.0,9688868451.0
+fm_2024_mpo_rab_pendapatan_non_operasional,snapshot_istantoro_2022_mar_2026,2024,annual,2024,,MPO - RAB,pendapatan_non_operasional,114744557.0,129747595.0
+fm_2024_mpo_rab_beban_non_operasional,snapshot_istantoro_2022_mar_2026,2024,annual,2024,,MPO - RAB,beban_non_operasional,4582730.0,26446990.0
+fm_2024_mpo_rab_laba_usaha,snapshot_istantoro_2022_mar_2026,2024,annual,2024,,MPO - RAB,laba_usaha,16400012062.0,40481987367.0
+fm_2024_mpo_rab_laba_sebelum_pajak,snapshot_istantoro_2022_mar_2026,2024,annual,2024,,MPO - RAB,laba_sebelum_pajak,15596346321.0,41341095764.0
+fm_2024_bpo_pendapatan,snapshot_istantoro_2022_mar_2026,2024,annual,2024,,BPO,pendapatan,303436658102.0,192158386531.0
+fm_2024_bpo_beban_operasional,snapshot_istantoro_2022_mar_2026,2024,annual,2024,,BPO,beban_operasional,266961769389.0,128354911378.0
+fm_2024_bpo_pendapatan_non_operasional,snapshot_istantoro_2022_mar_2026,2024,annual,2024,,BPO,pendapatan_non_operasional,1249382830.0,487947278.0
+fm_2024_bpo_beban_non_operasional,snapshot_istantoro_2022_mar_2026,2024,annual,2024,,BPO,beban_non_operasional,45656329.0,103487069.0
+fm_2024_bpo_laba_usaha,snapshot_istantoro_2022_mar_2026,2024,annual,2024,,BPO,laba_usaha,62062869987.0,66216326224.0
+fm_2024_bpo_laba_sebelum_pajak,snapshot_istantoro_2022_mar_2026,2024,annual,2024,,BPO,laba_sebelum_pajak,58979160348.0,66956659034.0
+fm_2024_kpo_diklat_pendapatan,snapshot_istantoro_2022_mar_2026,2024,annual,2024,,KPO - DIKLAT,pendapatan,20559940037.0,17342125167.0
+fm_2024_kpo_diklat_beban_operasional,snapshot_istantoro_2022_mar_2026,2024,annual,2024,,KPO - DIKLAT,beban_operasional,17467499645.0,14412953687.0
+fm_2024_kpo_diklat_pendapatan_non_operasional,snapshot_istantoro_2022_mar_2026,2024,annual,2024,,KPO - DIKLAT,pendapatan_non_operasional,82873134.0,42450604.0
+fm_2024_kpo_diklat_beban_non_operasional,snapshot_istantoro_2022_mar_2026,2024,annual,2024,,KPO - DIKLAT,beban_non_operasional,2951957.0,8834474.0
+fm_2024_kpo_diklat_laba_usaha,snapshot_istantoro_2022_mar_2026,2024,annual,2024,,KPO - DIKLAT,laba_usaha,2644341407.0,2645779364.0
+fm_2024_kpo_diklat_laba_sebelum_pajak,snapshot_istantoro_2022_mar_2026,2024,annual,2024,,KPO - DIKLAT,laba_sebelum_pajak,2646122145.0,2706051680.0
+fm_2024_kpo_training_pendapatan,snapshot_istantoro_2022_mar_2026,2024,annual,2024,,KPO - TRAINING,pendapatan,5548324534.0,2174565103.0
+fm_2024_kpo_training_beban_operasional,snapshot_istantoro_2022_mar_2026,2024,annual,2024,,KPO - TRAINING,beban_operasional,3353252752.0,1423862992.0
+fm_2024_kpo_training_pendapatan_non_operasional,snapshot_istantoro_2022_mar_2026,2024,annual,2024,,KPO - TRAINING,pendapatan_non_operasional,22182970.0,5503479.0
+fm_2024_kpo_training_beban_non_operasional,snapshot_istantoro_2022_mar_2026,2024,annual,2024,,KPO - TRAINING,beban_non_operasional,801601.0,1119844.0
+fm_2024_kpo_training_laba_usaha,snapshot_istantoro_2022_mar_2026,2024,annual,2024,,KPO - TRAINING,laba_usaha,2329126723.0,733477687.0
+fm_2024_kpo_training_laba_sebelum_pajak,snapshot_istantoro_2022_mar_2026,2024,annual,2024,,KPO - TRAINING,laba_sebelum_pajak,2256907971.0,734665203.0
+fm_2025_mpo_tad_pendapatan,snapshot_istantoro_2022_mar_2026,2025,annual,2025,,MPO - TAD,pendapatan,3212094572453.0,3581556094085.0
+fm_2025_mpo_tad_beban_operasional,snapshot_istantoro_2022_mar_2026,2025,annual,2025,,MPO - TAD,beban_operasional,3094134645455.0,3400939229444.0
+fm_2025_mpo_tad_pendapatan_non_operasional,snapshot_istantoro_2022_mar_2026,2025,annual,2025,,MPO - TAD,pendapatan_non_operasional,11986640507.0,13513268898.0
+fm_2025_mpo_tad_beban_non_operasional,snapshot_istantoro_2022_mar_2026,2025,annual,2025,,MPO - TAD,beban_non_operasional,1341136586.0,653206821.0
+fm_2025_mpo_tad_laba_usaha,snapshot_istantoro_2022_mar_2026,2025,annual,2025,,MPO - TAD,laba_usaha,317973756668.0,300905271626.0
+fm_2025_mpo_tad_laba_sebelum_pajak,snapshot_istantoro_2022_mar_2026,2025,annual,2025,,MPO - TAD,laba_sebelum_pajak,319735541830.0,314348513532.0
+fm_2025_mpo_rab_pendapatan,snapshot_istantoro_2022_mar_2026,2025,annual,2025,,MPO - RAB,pendapatan,35923525267.0,53882323967.0
+fm_2025_mpo_rab_beban_operasional,snapshot_istantoro_2022_mar_2026,2025,annual,2025,,MPO - RAB,beban_operasional,17879285383.0,23084270110.0
+fm_2025_mpo_rab_pendapatan_non_operasional,snapshot_istantoro_2022_mar_2026,2025,annual,2025,,MPO - RAB,pendapatan_non_operasional,119443415.0,199547821.0
+fm_2025_mpo_rab_beban_non_operasional,snapshot_istantoro_2022_mar_2026,2025,annual,2025,,MPO - RAB,beban_non_operasional,13747040.0,9921913.0
+fm_2025_mpo_rab_laba_usaha,snapshot_istantoro_2022_mar_2026,2025,annual,2025,,MPO - RAB,laba_usaha,16996695889.0,30541816791.0
+fm_2025_mpo_rab_laba_sebelum_pajak,snapshot_istantoro_2022_mar_2026,2025,annual,2025,,MPO - RAB,laba_sebelum_pajak,18188116019.0,32091860229.0
+fm_2025_bpo_pendapatan,snapshot_istantoro_2022_mar_2026,2025,annual,2025,,BPO,pendapatan,228196246941.0,445488531299.0
+fm_2025_bpo_beban_operasional,snapshot_istantoro_2022_mar_2026,2025,annual,2025,,BPO,beban_operasional,210183482787.0,373991794364.0
+fm_2025_bpo_pendapatan_non_operasional,snapshot_istantoro_2022_mar_2026,2025,annual,2025,,BPO,pendapatan_non_operasional,846605734.0,1689462943.0
+fm_2025_bpo_beban_non_operasional,snapshot_istantoro_2022_mar_2026,2025,annual,2025,,BPO,beban_non_operasional,90491566.0,86381483.0
+fm_2025_bpo_laba_usaha,snapshot_istantoro_2022_mar_2026,2025,annual,2025,,BPO,laba_usaha,22307490019.0,81610918791.0
+fm_2025_bpo_laba_sebelum_pajak,snapshot_istantoro_2022_mar_2026,2025,annual,2025,,BPO,laba_sebelum_pajak,23823485861.0,84648566775.0
+fm_2025_kpo_diklat_pendapatan,snapshot_istantoro_2022_mar_2026,2025,annual,2025,,KPO - DIKLAT,pendapatan,18385945512.0,26751634625.0
+fm_2025_kpo_diklat_beban_operasional,snapshot_istantoro_2022_mar_2026,2025,annual,2025,,KPO - DIKLAT,beban_operasional,14410562284.0,23037867619.0
+fm_2025_kpo_diklat_pendapatan_non_operasional,snapshot_istantoro_2022_mar_2026,2025,annual,2025,,KPO - DIKLAT,pendapatan_non_operasional,64726744.0,98547533.0
+fm_2025_kpo_diklat_beban_non_operasional,snapshot_istantoro_2022_mar_2026,2025,annual,2025,,KPO - DIKLAT,beban_non_operasional,7288651.0,4710273.0
+fm_2025_kpo_diklat_laba_usaha,snapshot_istantoro_2022_mar_2026,2025,annual,2025,,KPO - DIKLAT,laba_usaha,4016884851.0,3406628650.0
+fm_2025_kpo_diklat_laba_sebelum_pajak,snapshot_istantoro_2022_mar_2026,2025,annual,2025,,KPO - DIKLAT,laba_sebelum_pajak,4030438034.0,3603276487.0
+fm_2025_kpo_training_pendapatan,snapshot_istantoro_2022_mar_2026,2025,annual,2025,,KPO - TRAINING,pendapatan,9220331998.0,9189408414.0
+fm_2025_kpo_training_beban_operasional,snapshot_istantoro_2022_mar_2026,2025,annual,2025,,KPO - TRAINING,beban_operasional,8210466840.0,6425277806.0
+fm_2025_kpo_training_pendapatan_non_operasional,snapshot_istantoro_2022_mar_2026,2025,annual,2025,,KPO - TRAINING,pendapatan_non_operasional,32799601.0,33440890.0
+fm_2025_kpo_training_beban_non_operasional,snapshot_istantoro_2022_mar_2026,2025,annual,2025,,KPO - TRAINING,beban_non_operasional,3518435.0,1623992.0
+fm_2025_kpo_training_laba_usaha,snapshot_istantoro_2022_mar_2026,2025,annual,2025,,KPO - TRAINING,laba_usaha,1228966830.0,2596458183.0
+fm_2025_kpo_training_laba_sebelum_pajak,snapshot_istantoro_2022_mar_2026,2025,annual,2025,,KPO - TRAINING,laba_sebelum_pajak,1215508950.0,2538221495.0
+fm_2025_01_mpo_tad_pendapatan,snapshot_istantoro_2022_mar_2026,2025-01,monthly,2025,1.0,MPO - TAD,pendapatan,280223200668.0,297877426531.0
+fm_2025_01_mpo_tad_beban_operasional,snapshot_istantoro_2022_mar_2026,2025-01,monthly,2025,1.0,MPO - TAD,beban_operasional,263965296631.0,274141238187.0
+fm_2025_01_mpo_tad_pendapatan_non_operasional,snapshot_istantoro_2022_mar_2026,2025-01,monthly,2025,1.0,MPO - TAD,pendapatan_non_operasional,1300309486.0,1119514957.0
+fm_2025_01_mpo_tad_beban_non_operasional,snapshot_istantoro_2022_mar_2026,2025-01,monthly,2025,1.0,MPO - TAD,beban_non_operasional,30191910.0,54451101.0
+fm_2025_01_mpo_tad_laba_usaha,snapshot_istantoro_2022_mar_2026,2025-01,monthly,2025,1.0,MPO - TAD,laba_usaha,17468225840.0,25095560680.0
+fm_2025_01_mpo_tad_laba_sebelum_pajak,snapshot_istantoro_2022_mar_2026,2025-01,monthly,2025,1.0,MPO - TAD,laba_sebelum_pajak,19109446873.0,26930496229.0
+fm_2025_01_mpo_rab_pendapatan,snapshot_istantoro_2022_mar_2026,2025-01,monthly,2025,1.0,MPO - RAB,pendapatan,5843069255.0,4501868168.0
+fm_2025_01_mpo_rab_beban_operasional,snapshot_istantoro_2022_mar_2026,2025-01,monthly,2025,1.0,MPO - RAB,beban_operasional,3405286991.0,1973239210.0
+fm_2025_01_mpo_rab_pendapatan_non_operasional,snapshot_istantoro_2022_mar_2026,2025-01,monthly,2025,1.0,MPO - RAB,pendapatan_non_operasional,26227475.0,16596238.0
+fm_2025_01_mpo_rab_beban_non_operasional,snapshot_istantoro_2022_mar_2026,2025-01,monthly,2025,1.0,MPO - RAB,beban_non_operasional,655123.0,836679.0
+fm_2025_01_mpo_rab_laba_usaha,snapshot_istantoro_2022_mar_2026,2025-01,monthly,2025,1.0,MPO - RAB,laba_usaha,2356628171.0,2601103446.0
+fm_2025_01_mpo_rab_laba_sebelum_pajak,snapshot_istantoro_2022_mar_2026,2025-01,monthly,2025,1.0,MPO - RAB,laba_sebelum_pajak,2336403989.0,2541895431.0
+fm_2025_01_bpo_pendapatan,snapshot_istantoro_2022_mar_2026,2025-01,monthly,2025,1.0,BPO,pendapatan,23312159435.0,37709848998.0
+fm_2025_01_bpo_beban_operasional,snapshot_istantoro_2022_mar_2026,2025-01,monthly,2025,1.0,BPO,beban_operasional,20397060578.0,30437589252.0
+fm_2025_01_bpo_pendapatan_non_operasional,snapshot_istantoro_2022_mar_2026,2025-01,monthly,2025,1.0,BPO,pendapatan_non_operasional,123283602.0,137841331.0
+fm_2025_01_bpo_beban_non_operasional,snapshot_istantoro_2022_mar_2026,2025-01,monthly,2025,1.0,BPO,beban_non_operasional,2750922.0,7201639.0
+fm_2025_01_bpo_laba_usaha,snapshot_istantoro_2022_mar_2026,2025-01,monthly,2025,1.0,BPO,laba_usaha,3506183951.0,6888775176.0
+fm_2025_01_bpo_laba_sebelum_pajak,snapshot_istantoro_2022_mar_2026,2025-01,monthly,2025,1.0,BPO,laba_sebelum_pajak,3688250936.0,7229506587.0
+fm_2025_01_kpo_diklat_pendapatan,snapshot_istantoro_2022_mar_2026,2025-01,monthly,2025,1.0,KPO - DIKLAT,pendapatan,1138472281.0,2136308059.0
+fm_2025_01_kpo_diklat_beban_operasional,snapshot_istantoro_2022_mar_2026,2025-01,monthly,2025,1.0,KPO - DIKLAT,beban_operasional,1060974399.0,1899081804.0
+fm_2025_01_kpo_diklat_pendapatan_non_operasional,snapshot_istantoro_2022_mar_2026,2025-01,monthly,2025,1.0,KPO - DIKLAT,pendapatan_non_operasional,5882870.0,8184808.0
+fm_2025_01_kpo_diklat_beban_non_operasional,snapshot_istantoro_2022_mar_2026,2025-01,monthly,2025,1.0,KPO - DIKLAT,beban_non_operasional,130071.0,400594.0
+fm_2025_01_kpo_diklat_laba_usaha,snapshot_istantoro_2022_mar_2026,2025-01,monthly,2025,1.0,KPO - DIKLAT,laba_usaha,140998878.0,289110567.0
+fm_2025_01_kpo_diklat_laba_sebelum_pajak,snapshot_istantoro_2022_mar_2026,2025-01,monthly,2025,1.0,KPO - DIKLAT,laba_sebelum_pajak,143609473.0,295692738.0
+fm_2025_01_kpo_training_pendapatan,snapshot_istantoro_2022_mar_2026,2025-01,monthly,2025,1.0,KPO - TRAINING,pendapatan,207987202.0,739781318.0
+fm_2025_01_kpo_training_beban_operasional,snapshot_istantoro_2022_mar_2026,2025-01,monthly,2025,1.0,KPO - TRAINING,beban_operasional,164007532.0,547374803.0
+fm_2025_01_kpo_training_pendapatan_non_operasional,snapshot_istantoro_2022_mar_2026,2025-01,monthly,2025,1.0,KPO - TRAINING,pendapatan_non_operasional,1046853.0,2829863.0
+fm_2025_01_kpo_training_beban_non_operasional,snapshot_istantoro_2022_mar_2026,2025-01,monthly,2025,1.0,KPO - TRAINING,beban_non_operasional,24570.0,140970.0
+fm_2025_01_kpo_training_laba_usaha,snapshot_istantoro_2022_mar_2026,2025-01,monthly,2025,1.0,KPO - TRAINING,laba_usaha,38768380.0,208128680.0
+fm_2025_01_kpo_training_laba_sebelum_pajak,snapshot_istantoro_2022_mar_2026,2025-01,monthly,2025,1.0,KPO - TRAINING,laba_sebelum_pajak,40678994.0,218552260.0
+fm_2025_02_mpo_tad_pendapatan,snapshot_istantoro_2022_mar_2026,2025-02,monthly,2025,2.0,MPO - TAD,pendapatan,284386020569.0,308980510942.0
+fm_2025_02_mpo_tad_beban_operasional,snapshot_istantoro_2022_mar_2026,2025-02,monthly,2025,2.0,MPO - TAD,beban_operasional,246822555138.0,270106414242.0
+fm_2025_02_mpo_tad_pendapatan_non_operasional,snapshot_istantoro_2022_mar_2026,2025-02,monthly,2025,2.0,MPO - TAD,pendapatan_non_operasional,1067700783.0,1089898450.0
+fm_2025_02_mpo_tad_beban_non_operasional,snapshot_istantoro_2022_mar_2026,2025-02,monthly,2025,2.0,MPO - TAD,beban_non_operasional,16747448.0,56105999.0
+fm_2025_02_mpo_tad_laba_usaha,snapshot_istantoro_2022_mar_2026,2025-02,monthly,2025,2.0,MPO - TAD,laba_usaha,20770277374.0,25804022916.0
+fm_2025_02_mpo_tad_laba_sebelum_pajak,snapshot_istantoro_2022_mar_2026,2025-02,monthly,2025,2.0,MPO - TAD,laba_sebelum_pajak,20359466561.0,27301626916.0
+fm_2025_02_mpo_rab_pendapatan,snapshot_istantoro_2022_mar_2026,2025-02,monthly,2025,2.0,MPO - RAB,pendapatan,1830450370.0,4461143295.0
+fm_2025_02_mpo_rab_beban_operasional,snapshot_istantoro_2022_mar_2026,2025-02,monthly,2025,2.0,MPO - RAB,beban_operasional,1092778631.0,1998456131.0
+fm_2025_02_mpo_rab_pendapatan_non_operasional,snapshot_istantoro_2022_mar_2026,2025-02,monthly,2025,2.0,MPO - RAB,pendapatan_non_operasional,7099400.0,16644299.0
+fm_2025_02_mpo_rab_beban_non_operasional,snapshot_istantoro_2022_mar_2026,2025-02,monthly,2025,2.0,MPO - RAB,beban_non_operasional,112934.0,820723.0
+fm_2025_02_mpo_rab_laba_usaha,snapshot_istantoro_2022_mar_2026,2025-02,monthly,2025,2.0,MPO - RAB,laba_usaha,724844650.0,2543732754.0
+fm_2025_02_mpo_rab_laba_sebelum_pajak,snapshot_istantoro_2022_mar_2026,2025-02,monthly,2025,2.0,MPO - RAB,laba_sebelum_pajak,751550608.0,2661440081.0
+fm_2025_02_bpo_pendapatan,snapshot_istantoro_2022_mar_2026,2025-02,monthly,2025,2.0,BPO,pendapatan,27395110257.0,38460681381.0
+fm_2025_02_bpo_beban_operasional,snapshot_istantoro_2022_mar_2026,2025-02,monthly,2025,2.0,BPO,beban_operasional,23303691784.0,31163282940.0
+fm_2025_02_bpo_pendapatan_non_operasional,snapshot_istantoro_2022_mar_2026,2025-02,monthly,2025,2.0,BPO,pendapatan_non_operasional,105042787.0,140350627.0
+fm_2025_02_bpo_beban_non_operasional,snapshot_istantoro_2022_mar_2026,2025-02,monthly,2025,2.0,BPO,beban_non_operasional,1714402.0,7154308.0
+fm_2025_02_bpo_laba_usaha,snapshot_istantoro_2022_mar_2026,2025-02,monthly,2025,2.0,BPO,laba_usaha,3745158043.0,6918057871.0
+fm_2025_02_bpo_laba_sebelum_pajak,snapshot_istantoro_2022_mar_2026,2025-02,monthly,2025,2.0,BPO,laba_sebelum_pajak,3798447351.0,7232370444.0
+fm_2025_02_kpo_diklat_pendapatan,snapshot_istantoro_2022_mar_2026,2025-02,monthly,2025,2.0,KPO - DIKLAT,pendapatan,2613507206.0,2160309593.0
+fm_2025_02_kpo_diklat_beban_operasional,snapshot_istantoro_2022_mar_2026,2025-02,monthly,2025,2.0,KPO - DIKLAT,beban_operasional,2735458331.0,1864752786.0
+fm_2025_02_kpo_diklat_pendapatan_non_operasional,snapshot_istantoro_2022_mar_2026,2025-02,monthly,2025,2.0,KPO - DIKLAT,pendapatan_non_operasional,11295517.0,8040932.0
+fm_2025_02_kpo_diklat_beban_non_operasional,snapshot_istantoro_2022_mar_2026,2025-02,monthly,2025,2.0,KPO - DIKLAT,beban_non_operasional,159955.0,393562.0
+fm_2025_02_kpo_diklat_laba_usaha,snapshot_istantoro_2022_mar_2026,2025-02,monthly,2025,2.0,KPO - DIKLAT,laba_usaha,28518345.0,293906993.0
+fm_2025_02_kpo_diklat_laba_sebelum_pajak,snapshot_istantoro_2022_mar_2026,2025-02,monthly,2025,2.0,KPO - DIKLAT,laba_sebelum_pajak,38336270.0,297313656.0
+fm_2025_02_kpo_training_pendapatan,snapshot_istantoro_2022_mar_2026,2025-02,monthly,2025,2.0,KPO - TRAINING,pendapatan,560003778.0,734555958.0
+fm_2025_02_kpo_training_beban_operasional,snapshot_istantoro_2022_mar_2026,2025-02,monthly,2025,2.0,KPO - TRAINING,beban_operasional,666046206.0,546415737.0
+fm_2025_02_kpo_training_pendapatan_non_operasional,snapshot_istantoro_2022_mar_2026,2025-02,monthly,2025,2.0,KPO - TRAINING,pendapatan_non_operasional,2279123.0,2755487.0
+fm_2025_02_kpo_training_beban_non_operasional,snapshot_istantoro_2022_mar_2026,2025-02,monthly,2025,2.0,KPO - TRAINING,beban_non_operasional,33486.0,137502.0
+fm_2025_02_kpo_training_laba_usaha,snapshot_istantoro_2022_mar_2026,2025-02,monthly,2025,2.0,KPO - TRAINING,laba_usaha,-142434809.0,218121522.0
+fm_2025_02_kpo_training_laba_sebelum_pajak,snapshot_istantoro_2022_mar_2026,2025-02,monthly,2025,2.0,KPO - TRAINING,laba_sebelum_pajak,-129404925.0,217173117.0
+fm_2025_03_mpo_tad_pendapatan,snapshot_istantoro_2022_mar_2026,2025-03,monthly,2025,3.0,MPO - TAD,pendapatan,412973218571.0,294142183451.0
+fm_2025_03_mpo_tad_beban_operasional,snapshot_istantoro_2022_mar_2026,2025-03,monthly,2025,3.0,MPO - TAD,beban_operasional,381834935129.0,282640285541.0
+fm_2025_03_mpo_tad_pendapatan_non_operasional,snapshot_istantoro_2022_mar_2026,2025-03,monthly,2025,3.0,MPO - TAD,pendapatan_non_operasional,1389956440.0,1127578344.0
+fm_2025_03_mpo_tad_beban_non_operasional,snapshot_istantoro_2022_mar_2026,2025-03,monthly,2025,3.0,MPO - TAD,beban_non_operasional,42554184.0,54758035.0
+fm_2025_03_mpo_tad_laba_usaha,snapshot_istantoro_2022_mar_2026,2025-03,monthly,2025,3.0,MPO - TAD,laba_usaha,21911925307.0,25133224048.0
+fm_2025_03_mpo_tad_laba_sebelum_pajak,snapshot_istantoro_2022_mar_2026,2025-03,monthly,2025,3.0,MPO - TAD,laba_sebelum_pajak,24127729834.0,27224893750.0
+fm_2025_03_mpo_rab_pendapatan,snapshot_istantoro_2022_mar_2026,2025-03,monthly,2025,3.0,MPO - RAB,pendapatan,1950575189.0,4592544689.0
+fm_2025_03_mpo_rab_beban_operasional,snapshot_istantoro_2022_mar_2026,2025-03,monthly,2025,3.0,MPO - RAB,beban_operasional,468949391.0,1967610106.0
+fm_2025_03_mpo_rab_pendapatan_non_operasional,snapshot_istantoro_2022_mar_2026,2025-03,monthly,2025,3.0,MPO - RAB,pendapatan_non_operasional,6024817.0,17348238.0
+fm_2025_03_mpo_rab_beban_non_operasional,snapshot_istantoro_2022_mar_2026,2025-03,monthly,2025,3.0,MPO - RAB,beban_non_operasional,179977.0,852131.0
+fm_2025_03_mpo_rab_laba_usaha,snapshot_istantoro_2022_mar_2026,2025-03,monthly,2025,3.0,MPO - RAB,laba_usaha,1366274792.0,2541771572.0
+fm_2025_03_mpo_rab_laba_sebelum_pajak,snapshot_istantoro_2022_mar_2026,2025-03,monthly,2025,3.0,MPO - RAB,laba_sebelum_pajak,1486852197.0,2582628870.0
+fm_2025_03_bpo_pendapatan,snapshot_istantoro_2022_mar_2026,2025-03,monthly,2025,3.0,BPO,pendapatan,24201162955.0,37508506575.0
+fm_2025_03_bpo_beban_operasional,snapshot_istantoro_2022_mar_2026,2025-03,monthly,2025,3.0,BPO,beban_operasional,21639724374.0,31575714544.0
+fm_2025_03_bpo_pendapatan_non_operasional,snapshot_istantoro_2022_mar_2026,2025-03,monthly,2025,3.0,BPO,pendapatan_non_operasional,72743782.0,137587879.0
+fm_2025_03_bpo_beban_non_operasional,snapshot_istantoro_2022_mar_2026,2025-03,monthly,2025,3.0,BPO,beban_non_operasional,2239563.0,7025311.0
+fm_2025_03_bpo_laba_usaha,snapshot_istantoro_2022_mar_2026,2025-03,monthly,2025,3.0,BPO,laba_usaha,1957180211.0,7072641968.0
+fm_2025_03_bpo_laba_sebelum_pajak,snapshot_istantoro_2022_mar_2026,2025-03,monthly,2025,3.0,BPO,laba_sebelum_pajak,2064443806.0,7257992384.0
+fm_2025_03_kpo_diklat_pendapatan,snapshot_istantoro_2022_mar_2026,2025-03,monthly,2025,3.0,KPO - DIKLAT,pendapatan,1127808779.0,2147683592.0
+fm_2025_03_kpo_diklat_beban_operasional,snapshot_istantoro_2022_mar_2026,2025-03,monthly,2025,3.0,KPO - DIKLAT,beban_operasional,856551610.0,1914834577.0
+fm_2025_03_kpo_diklat_pendapatan_non_operasional,snapshot_istantoro_2022_mar_2026,2025-03,monthly,2025,3.0,KPO - DIKLAT,pendapatan_non_operasional,3498846.0,7870703.0
+fm_2025_03_kpo_diklat_beban_non_operasional,snapshot_istantoro_2022_mar_2026,2025-03,monthly,2025,3.0,KPO - DIKLAT,beban_non_operasional,101688.0,406588.0
+fm_2025_03_kpo_diklat_laba_usaha,snapshot_istantoro_2022_mar_2026,2025-03,monthly,2025,3.0,KPO - DIKLAT,laba_usaha,244002716.0,283131610.0
+fm_2025_03_kpo_diklat_laba_sebelum_pajak,snapshot_istantoro_2022_mar_2026,2025-03,monthly,2025,3.0,KPO - DIKLAT,laba_sebelum_pajak,266090651.0,295433161.0
+fm_2025_03_kpo_training_pendapatan,snapshot_istantoro_2022_mar_2026,2025-03,monthly,2025,3.0,KPO - TRAINING,pendapatan,574227692.0,759867739.0
+fm_2025_03_kpo_training_beban_operasional,snapshot_istantoro_2022_mar_2026,2025-03,monthly,2025,3.0,KPO - TRAINING,beban_operasional,528835308.0,522413705.0
+fm_2025_03_kpo_training_pendapatan_non_operasional,snapshot_istantoro_2022_mar_2026,2025-03,monthly,2025,3.0,KPO - TRAINING,pendapatan_non_operasional,1733334.0,2729741.0
+fm_2025_03_kpo_training_beban_non_operasional,snapshot_istantoro_2022_mar_2026,2025-03,monthly,2025,3.0,KPO - TRAINING,beban_non_operasional,56430.0,138972.0
+fm_2025_03_kpo_training_laba_usaha,snapshot_istantoro_2022_mar_2026,2025-03,monthly,2025,3.0,KPO - TRAINING,laba_usaha,11453837.0,215739674.0
+fm_2025_03_kpo_training_laba_sebelum_pajak,snapshot_istantoro_2022_mar_2026,2025-03,monthly,2025,3.0,KPO - TRAINING,laba_sebelum_pajak,13331923.0,217391826.0
+fm_2025_04_mpo_tad_pendapatan,snapshot_istantoro_2022_mar_2026,2025-04,monthly,2025,4.0,MPO - TAD,pendapatan,254577588090.0,304565875607.0
+fm_2025_04_mpo_tad_beban_operasional,snapshot_istantoro_2022_mar_2026,2025-04,monthly,2025,4.0,MPO - TAD,beban_operasional,241855198259.0,276079116624.0
+fm_2025_04_mpo_tad_pendapatan_non_operasional,snapshot_istantoro_2022_mar_2026,2025-04,monthly,2025,4.0,MPO - TAD,pendapatan_non_operasional,969158790.0,1102339724.0
+fm_2025_04_mpo_tad_beban_non_operasional,snapshot_istantoro_2022_mar_2026,2025-04,monthly,2025,4.0,MPO - TAD,beban_non_operasional,38002411.0,54793841.0
+fm_2025_04_mpo_tad_laba_usaha,snapshot_istantoro_2022_mar_2026,2025-04,monthly,2025,4.0,MPO - TAD,laba_usaha,16381821736.0,25198462849.0
+fm_2025_04_mpo_tad_laba_sebelum_pajak,snapshot_istantoro_2022_mar_2026,2025-04,monthly,2025,4.0,MPO - TAD,laba_sebelum_pajak,16511479764.0,27408566599.0
+fm_2025_04_mpo_rab_pendapatan,snapshot_istantoro_2022_mar_2026,2025-04,monthly,2025,4.0,MPO - RAB,pendapatan,738517573.0,4582509449.0
+fm_2025_04_mpo_rab_beban_operasional,snapshot_istantoro_2022_mar_2026,2025-04,monthly,2025,4.0,MPO - RAB,beban_operasional,245673015.0,1951986026.0
+fm_2025_04_mpo_rab_pendapatan_non_operasional,snapshot_istantoro_2022_mar_2026,2025-04,monthly,2025,4.0,MPO - RAB,pendapatan_non_operasional,2874730.0,16909068.0
+fm_2025_04_mpo_rab_beban_non_operasional,snapshot_istantoro_2022_mar_2026,2025-04,monthly,2025,4.0,MPO - RAB,beban_non_operasional,119995.0,860106.0
+fm_2025_04_mpo_rab_laba_usaha,snapshot_istantoro_2022_mar_2026,2025-04,monthly,2025,4.0,MPO - RAB,laba_usaha,519946050.0,2542032710.0
+fm_2025_04_mpo_rab_laba_sebelum_pajak,snapshot_istantoro_2022_mar_2026,2025-04,monthly,2025,4.0,MPO - RAB,laba_sebelum_pajak,518109717.0,2625651989.0
+fm_2025_04_bpo_pendapatan,snapshot_istantoro_2022_mar_2026,2025-04,monthly,2025,4.0,BPO,pendapatan,16388849148.0,38096662570.0
+fm_2025_04_bpo_beban_operasional,snapshot_istantoro_2022_mar_2026,2025-04,monthly,2025,4.0,BPO,beban_operasional,15152734355.0,31328323666.0
+fm_2025_04_bpo_pendapatan_non_operasional,snapshot_istantoro_2022_mar_2026,2025-04,monthly,2025,4.0,BPO,pendapatan_non_operasional,62860941.0,137456898.0
+fm_2025_04_bpo_beban_non_operasional,snapshot_istantoro_2022_mar_2026,2025-04,monthly,2025,4.0,BPO,beban_non_operasional,2567708.0,7152177.0
+fm_2025_04_bpo_laba_usaha,snapshot_istantoro_2022_mar_2026,2025-04,monthly,2025,4.0,BPO,laba_usaha,1808799140.0,7143522274.0
+fm_2025_04_bpo_laba_sebelum_pajak,snapshot_istantoro_2022_mar_2026,2025-04,monthly,2025,4.0,BPO,laba_sebelum_pajak,1769719324.0,7125282849.0
+fm_2025_04_kpo_diklat_pendapatan,snapshot_istantoro_2022_mar_2026,2025-04,monthly,2025,4.0,KPO - DIKLAT,pendapatan,754234017.0,2193810782.0
+fm_2025_04_kpo_diklat_beban_operasional,snapshot_istantoro_2022_mar_2026,2025-04,monthly,2025,4.0,KPO - DIKLAT,beban_operasional,667326181.0,1926246320.0
+fm_2025_04_kpo_diklat_pendapatan_non_operasional,snapshot_istantoro_2022_mar_2026,2025-04,monthly,2025,4.0,KPO - DIKLAT,pendapatan_non_operasional,2815526.0,8159186.0
+fm_2025_04_kpo_diklat_beban_non_operasional,snapshot_istantoro_2022_mar_2026,2025-04,monthly,2025,4.0,KPO - DIKLAT,beban_non_operasional,111986.0,390005.0
+fm_2025_04_kpo_diklat_laba_usaha,snapshot_istantoro_2022_mar_2026,2025-04,monthly,2025,4.0,KPO - DIKLAT,laba_usaha,67607788.0,290930073.0
+fm_2025_04_kpo_diklat_laba_sebelum_pajak,snapshot_istantoro_2022_mar_2026,2025-04,monthly,2025,4.0,KPO - DIKLAT,laba_sebelum_pajak,69662605.0,299168495.0
+fm_2025_04_kpo_training_pendapatan,snapshot_istantoro_2022_mar_2026,2025-04,monthly,2025,4.0,KPO - TRAINING,pendapatan,812637853.0,743152552.0
+fm_2025_04_kpo_training_beban_operasional,snapshot_istantoro_2022_mar_2026,2025-04,monthly,2025,4.0,KPO - TRAINING,beban_operasional,563570851.0,541192737.0
+fm_2025_04_kpo_training_pendapatan_non_operasional,snapshot_istantoro_2022_mar_2026,2025-04,monthly,2025,4.0,KPO - TRAINING,pendapatan_non_operasional,3089212.0,2847136.0
+fm_2025_04_kpo_training_beban_non_operasional,snapshot_istantoro_2022_mar_2026,2025-04,monthly,2025,4.0,KPO - TRAINING,beban_non_operasional,123145.0,140645.0
+fm_2025_04_kpo_training_laba_usaha,snapshot_istantoro_2022_mar_2026,2025-04,monthly,2025,4.0,KPO - TRAINING,laba_usaha,291048364.0,212300489.0
+fm_2025_04_kpo_training_laba_sebelum_pajak,snapshot_istantoro_2022_mar_2026,2025-04,monthly,2025,4.0,KPO - TRAINING,laba_sebelum_pajak,280543584.0,210563857.0
+fm_2025_05_mpo_tad_pendapatan,snapshot_istantoro_2022_mar_2026,2025-05,monthly,2025,5.0,MPO - TAD,pendapatan,265096609174.0,309820488556.0
+fm_2025_05_mpo_tad_beban_operasional,snapshot_istantoro_2022_mar_2026,2025-05,monthly,2025,5.0,MPO - TAD,beban_operasional,245267449404.0,280972613773.0
+fm_2025_05_mpo_tad_pendapatan_non_operasional,snapshot_istantoro_2022_mar_2026,2025-05,monthly,2025,5.0,MPO - TAD,pendapatan_non_operasional,728982622.0,1093803757.0
+fm_2025_05_mpo_tad_beban_non_operasional,snapshot_istantoro_2022_mar_2026,2025-05,monthly,2025,5.0,MPO - TAD,beban_non_operasional,140615803.0,56702378.0
+fm_2025_05_mpo_tad_laba_usaha,snapshot_istantoro_2022_mar_2026,2025-05,monthly,2025,5.0,MPO - TAD,laba_usaha,18360369309.0,26259374725.0
+fm_2025_05_mpo_tad_laba_sebelum_pajak,snapshot_istantoro_2022_mar_2026,2025-05,monthly,2025,5.0,MPO - TAD,laba_sebelum_pajak,20703121487.0,26783169999.0
+fm_2025_05_mpo_rab_pendapatan,snapshot_istantoro_2022_mar_2026,2025-05,monthly,2025,5.0,MPO - RAB,pendapatan,2784225376.0,4584666269.0
+fm_2025_05_mpo_rab_beban_operasional,snapshot_istantoro_2022_mar_2026,2025-05,monthly,2025,5.0,MPO - RAB,beban_operasional,1926283427.0,1951768210.0
+fm_2025_05_mpo_rab_pendapatan_non_operasional,snapshot_istantoro_2022_mar_2026,2025-05,monthly,2025,5.0,MPO - RAB,pendapatan_non_operasional,8089012.0,16494957.0
+fm_2025_05_mpo_rab_beban_non_operasional,snapshot_istantoro_2022_mar_2026,2025-05,monthly,2025,5.0,MPO - RAB,beban_non_operasional,1629021.0,829344.0
+fm_2025_05_mpo_rab_laba_usaha,snapshot_istantoro_2022_mar_2026,2025-05,monthly,2025,5.0,MPO - RAB,laba_usaha,944150497.0,2643200211.0
+fm_2025_05_mpo_rab_laba_sebelum_pajak,snapshot_istantoro_2022_mar_2026,2025-05,monthly,2025,5.0,MPO - RAB,laba_sebelum_pajak,958975110.0,2534499188.0
+fm_2025_05_bpo_pendapatan,snapshot_istantoro_2022_mar_2026,2025-05,monthly,2025,5.0,BPO,pendapatan,22367387786.0,37702753853.0
+fm_2025_05_bpo_beban_operasional,snapshot_istantoro_2022_mar_2026,2025-05,monthly,2025,5.0,BPO,beban_operasional,19862885421.0,30930074153.0
+fm_2025_05_bpo_pendapatan_non_operasional,snapshot_istantoro_2022_mar_2026,2025-05,monthly,2025,5.0,BPO,pendapatan_non_operasional,57598328.0,141867176.0
+fm_2025_05_bpo_beban_non_operasional,snapshot_istantoro_2022_mar_2026,2025-05,monthly,2025,5.0,BPO,beban_non_operasional,12193054.0,7172212.0
+fm_2025_05_bpo_laba_usaha,snapshot_istantoro_2022_mar_2026,2025-05,monthly,2025,5.0,BPO,laba_usaha,1435301799.0,6898798605.0
+fm_2025_05_bpo_laba_sebelum_pajak,snapshot_istantoro_2022_mar_2026,2025-05,monthly,2025,5.0,BPO,laba_sebelum_pajak,1450649907.0,7032370306.0
+fm_2025_05_kpo_diklat_pendapatan,snapshot_istantoro_2022_mar_2026,2025-05,monthly,2025,5.0,KPO - DIKLAT,pendapatan,1877910439.0,2199125164.0
+fm_2025_05_kpo_diklat_beban_operasional,snapshot_istantoro_2022_mar_2026,2025-05,monthly,2025,5.0,KPO - DIKLAT,beban_operasional,1682864691.0,1873237420.0
+fm_2025_05_kpo_diklat_pendapatan_non_operasional,snapshot_istantoro_2022_mar_2026,2025-05,monthly,2025,5.0,KPO - DIKLAT,pendapatan_non_operasional,5199815.0,7925814.0
+fm_2025_05_kpo_diklat_beban_non_operasional,snapshot_istantoro_2022_mar_2026,2025-05,monthly,2025,5.0,KPO - DIKLAT,beban_non_operasional,1097605.0,397172.0
+fm_2025_05_kpo_diklat_laba_usaha,snapshot_istantoro_2022_mar_2026,2025-05,monthly,2025,5.0,KPO - DIKLAT,laba_usaha,107337835.0,283363902.0
+fm_2025_05_kpo_diklat_laba_sebelum_pajak,snapshot_istantoro_2022_mar_2026,2025-05,monthly,2025,5.0,KPO - DIKLAT,laba_sebelum_pajak,115651293.0,291493204.0
+fm_2025_05_kpo_training_pendapatan,snapshot_istantoro_2022_mar_2026,2025-05,monthly,2025,5.0,KPO - TRAINING,pendapatan,1171943430.0,746477858.0
+fm_2025_05_kpo_training_beban_operasional,snapshot_istantoro_2022_mar_2026,2025-05,monthly,2025,5.0,KPO - TRAINING,beban_operasional,990937644.0,531026628.0
+fm_2025_05_kpo_training_pendapatan_non_operasional,snapshot_istantoro_2022_mar_2026,2025-05,monthly,2025,5.0,KPO - TRAINING,pendapatan_non_operasional,3174470.0,2843885.0
+fm_2025_05_kpo_training_beban_non_operasional,snapshot_istantoro_2022_mar_2026,2025-05,monthly,2025,5.0,KPO - TRAINING,beban_non_operasional,646473.0,136011.0
+fm_2025_05_kpo_training_laba_usaha,snapshot_istantoro_2022_mar_2026,2025-05,monthly,2025,5.0,KPO - TRAINING,laba_usaha,159413978.0,213958124.0
+fm_2025_05_kpo_training_laba_sebelum_pajak,snapshot_istantoro_2022_mar_2026,2025-05,monthly,2025,5.0,KPO - TRAINING,laba_sebelum_pajak,160776795.0,217276929.0
+fm_2025_06_mpo_tad_pendapatan,snapshot_istantoro_2022_mar_2026,2025-06,monthly,2025,6.0,MPO - TAD,pendapatan,269922461121.0,292267101831.0
+fm_2025_06_mpo_tad_beban_operasional,snapshot_istantoro_2022_mar_2026,2025-06,monthly,2025,6.0,MPO - TAD,beban_operasional,249396704991.0,278075235238.0
+fm_2025_06_mpo_tad_pendapatan_non_operasional,snapshot_istantoro_2022_mar_2026,2025-06,monthly,2025,6.0,MPO - TAD,pendapatan_non_operasional,1242930829.0,1097387252.0
+fm_2025_06_mpo_tad_beban_non_operasional,snapshot_istantoro_2022_mar_2026,2025-06,monthly,2025,6.0,MPO - TAD,beban_non_operasional,299745948.0,56835870.0
+fm_2025_06_mpo_tad_laba_usaha,snapshot_istantoro_2022_mar_2026,2025-06,monthly,2025,6.0,MPO - TAD,laba_usaha,19950076339.0,25147698371.0
+fm_2025_06_mpo_tad_laba_sebelum_pajak,snapshot_istantoro_2022_mar_2026,2025-06,monthly,2025,6.0,MPO - TAD,laba_sebelum_pajak,20841704486.0,26615888305.0
+fm_2025_06_mpo_rab_pendapatan,snapshot_istantoro_2022_mar_2026,2025-06,monthly,2025,6.0,MPO - RAB,pendapatan,4380624262.0,4446254238.0
+fm_2025_06_mpo_rab_beban_operasional,snapshot_istantoro_2022_mar_2026,2025-06,monthly,2025,6.0,MPO - RAB,beban_operasional,816845055.0,2022209474.0
+fm_2025_06_mpo_rab_pendapatan_non_operasional,snapshot_istantoro_2022_mar_2026,2025-06,monthly,2025,6.0,MPO - RAB,pendapatan_non_operasional,19871843.0,16949935.0
+fm_2025_06_mpo_rab_beban_non_operasional,snapshot_istantoro_2022_mar_2026,2025-06,monthly,2025,6.0,MPO - RAB,beban_non_operasional,4814937.0,842420.0
+fm_2025_06_mpo_rab_laba_usaha,snapshot_istantoro_2022_mar_2026,2025-06,monthly,2025,6.0,MPO - RAB,laba_usaha,3583472337.0,2528594386.0
+fm_2025_06_mpo_rab_laba_sebelum_pajak,snapshot_istantoro_2022_mar_2026,2025-06,monthly,2025,6.0,MPO - RAB,laba_sebelum_pajak,3407648216.0,2651313204.0
+fm_2025_06_bpo_pendapatan,snapshot_istantoro_2022_mar_2026,2025-06,monthly,2025,6.0,BPO,pendapatan,16887330256.0,37420343463.0
+fm_2025_06_bpo_beban_operasional,snapshot_istantoro_2022_mar_2026,2025-06,monthly,2025,6.0,BPO,beban_operasional,14936265445.0,31863466982.0
+fm_2025_06_bpo_pendapatan_non_operasional,snapshot_istantoro_2022_mar_2026,2025-06,monthly,2025,6.0,BPO,pendapatan_non_operasional,78916578.0,139045334.0
+fm_2025_06_bpo_beban_non_operasional,snapshot_istantoro_2022_mar_2026,2025-06,monthly,2025,6.0,BPO,beban_non_operasional,17927594.0,6866138.0
+fm_2025_06_bpo_laba_usaha,snapshot_istantoro_2022_mar_2026,2025-06,monthly,2025,6.0,BPO,laba_usaha,1526445696.0,6769372043.0
+fm_2025_06_bpo_laba_sebelum_pajak,snapshot_istantoro_2022_mar_2026,2025-06,monthly,2025,6.0,BPO,laba_sebelum_pajak,1598004385.0,7085650336.0
+fm_2025_06_kpo_diklat_pendapatan,snapshot_istantoro_2022_mar_2026,2025-06,monthly,2025,6.0,KPO - DIKLAT,pendapatan,1402712709.0,2176663177.0
+fm_2025_06_kpo_diklat_beban_operasional,snapshot_istantoro_2022_mar_2026,2025-06,monthly,2025,6.0,KPO - DIKLAT,beban_operasional,1334355559.0,1829671098.0
+fm_2025_06_kpo_diklat_pendapatan_non_operasional,snapshot_istantoro_2022_mar_2026,2025-06,monthly,2025,6.0,KPO - DIKLAT,pendapatan_non_operasional,6255165.0,8192206.0
+fm_2025_06_kpo_diklat_beban_non_operasional,snapshot_istantoro_2022_mar_2026,2025-06,monthly,2025,6.0,KPO - DIKLAT,beban_non_operasional,1502890.0,397192.0
+fm_2025_06_kpo_diklat_laba_usaha,snapshot_istantoro_2022_mar_2026,2025-06,monthly,2025,6.0,KPO - DIKLAT,laba_usaha,114543338.0,290028278.0
+fm_2025_06_kpo_diklat_laba_sebelum_pajak,snapshot_istantoro_2022_mar_2026,2025-06,monthly,2025,6.0,KPO - DIKLAT,laba_sebelum_pajak,114330057.0,296208585.0
+fm_2025_06_kpo_training_pendapatan,snapshot_istantoro_2022_mar_2026,2025-06,monthly,2025,6.0,KPO - TRAINING,pendapatan,719435507.0,742105845.0
+fm_2025_06_kpo_training_beban_operasional,snapshot_istantoro_2022_mar_2026,2025-06,monthly,2025,6.0,KPO - TRAINING,beban_operasional,593899955.0,535531945.0
+fm_2025_06_kpo_training_pendapatan_non_operasional,snapshot_istantoro_2022_mar_2026,2025-06,monthly,2025,6.0,KPO - TRAINING,pendapatan_non_operasional,3514406.0,2717419.0
+fm_2025_06_kpo_training_beban_non_operasional,snapshot_istantoro_2022_mar_2026,2025-06,monthly,2025,6.0,KPO - TRAINING,beban_non_operasional,798248.0,134526.0
+fm_2025_06_kpo_training_laba_usaha,snapshot_istantoro_2022_mar_2026,2025-06,monthly,2025,6.0,KPO - TRAINING,laba_usaha,156625026.0,217550620.0
+fm_2025_06_kpo_training_laba_sebelum_pajak,snapshot_istantoro_2022_mar_2026,2025-06,monthly,2025,6.0,KPO - TRAINING,laba_sebelum_pajak,150800557.0,221336271.0
+fm_2025_07_mpo_tad_pendapatan,snapshot_istantoro_2022_mar_2026,2025-07,monthly,2025,7.0,MPO - TAD,pendapatan,240860631460.0,298773931708.0
+fm_2025_07_mpo_tad_beban_operasional,snapshot_istantoro_2022_mar_2026,2025-07,monthly,2025,7.0,MPO - TAD,beban_operasional,227177171690.0,271585360137.0
+fm_2025_07_mpo_tad_pendapatan_non_operasional,snapshot_istantoro_2022_mar_2026,2025-07,monthly,2025,7.0,MPO - TAD,pendapatan_non_operasional,878224700.0,1128672159.0
+fm_2025_07_mpo_tad_beban_non_operasional,snapshot_istantoro_2022_mar_2026,2025-07,monthly,2025,7.0,MPO - TAD,beban_non_operasional,313594031.0,55003024.0
+fm_2025_07_mpo_tad_laba_usaha,snapshot_istantoro_2022_mar_2026,2025-07,monthly,2025,7.0,MPO - TAD,laba_usaha,26279610139.0,24957685841.0
+fm_2025_07_mpo_tad_laba_sebelum_pajak,snapshot_istantoro_2022_mar_2026,2025-07,monthly,2025,7.0,MPO - TAD,laba_sebelum_pajak,27513688940.0,26200996041.0
+fm_2025_07_mpo_rab_pendapatan,snapshot_istantoro_2022_mar_2026,2025-07,monthly,2025,7.0,MPO - RAB,pendapatan,3330064077.0,4618781029.0
+fm_2025_07_mpo_rab_beban_operasional,snapshot_istantoro_2022_mar_2026,2025-07,monthly,2025,7.0,MPO - RAB,beban_operasional,2074130967.0,1982392147.0
+fm_2025_07_mpo_rab_pendapatan_non_operasional,snapshot_istantoro_2022_mar_2026,2025-07,monthly,2025,7.0,MPO - RAB,pendapatan_non_operasional,11872384.0,16466825.0
+fm_2025_07_mpo_rab_beban_non_operasional,snapshot_istantoro_2022_mar_2026,2025-07,monthly,2025,7.0,MPO - RAB,beban_non_operasional,3985022.0,823654.0
+fm_2025_07_mpo_rab_laba_usaha,snapshot_istantoro_2022_mar_2026,2025-07,monthly,2025,7.0,MPO - RAB,laba_usaha,1205727270.0,2554139033.0
+fm_2025_07_mpo_rab_laba_sebelum_pajak,snapshot_istantoro_2022_mar_2026,2025-07,monthly,2025,7.0,MPO - RAB,laba_sebelum_pajak,1169131370.0,2639077786.0
+fm_2025_07_bpo_pendapatan,snapshot_istantoro_2022_mar_2026,2025-07,monthly,2025,7.0,BPO,pendapatan,16149389878.0,36985749204.0
+fm_2025_07_bpo_beban_operasional,snapshot_istantoro_2022_mar_2026,2025-07,monthly,2025,7.0,BPO,beban_operasional,16519960063.0,30381001321.0
+fm_2025_07_bpo_pendapatan_non_operasional,snapshot_istantoro_2022_mar_2026,2025-07,monthly,2025,7.0,BPO,pendapatan_non_operasional,60783443.0,144096756.0
+fm_2025_07_bpo_beban_non_operasional,snapshot_istantoro_2022_mar_2026,2025-07,monthly,2025,7.0,BPO,beban_non_operasional,21205954.0,6861041.0
+fm_2025_07_bpo_laba_usaha,snapshot_istantoro_2022_mar_2026,2025-07,monthly,2025,7.0,BPO,laba_usaha,1154048842.0,7026806299.0
+fm_2025_07_bpo_laba_sebelum_pajak,snapshot_istantoro_2022_mar_2026,2025-07,monthly,2025,7.0,BPO,laba_sebelum_pajak,1163370277.0,6986050124.0
+fm_2025_07_kpo_diklat_pendapatan,snapshot_istantoro_2022_mar_2026,2025-07,monthly,2025,7.0,KPO - DIKLAT,pendapatan,2093760878.0,2116117619.0
+fm_2025_07_kpo_diklat_beban_operasional,snapshot_istantoro_2022_mar_2026,2025-07,monthly,2025,7.0,KPO - DIKLAT,beban_operasional,1853686718.0,1849674327.0
+fm_2025_07_kpo_diklat_pendapatan_non_operasional,snapshot_istantoro_2022_mar_2026,2025-07,monthly,2025,7.0,KPO - DIKLAT,pendapatan_non_operasional,7557903.0,8166452.0
+fm_2025_07_kpo_diklat_beban_non_operasional,snapshot_istantoro_2022_mar_2026,2025-07,monthly,2025,7.0,KPO - DIKLAT,beban_non_operasional,2716973.0,406809.0
+fm_2025_07_kpo_diklat_laba_usaha,snapshot_istantoro_2022_mar_2026,2025-07,monthly,2025,7.0,KPO - DIKLAT,laba_usaha,271362892.0,295342455.0
+fm_2025_07_kpo_diklat_laba_sebelum_pajak,snapshot_istantoro_2022_mar_2026,2025-07,monthly,2025,7.0,KPO - DIKLAT,laba_sebelum_pajak,265960666.0,295431310.0
+fm_2025_07_kpo_training_pendapatan,snapshot_istantoro_2022_mar_2026,2025-07,monthly,2025,7.0,KPO - TRAINING,pendapatan,751721425.0,754080018.0
+fm_2025_07_kpo_training_beban_operasional,snapshot_istantoro_2022_mar_2026,2025-07,monthly,2025,7.0,KPO - TRAINING,beban_operasional,684712295.0,524176800.0
+fm_2025_07_kpo_training_pendapatan_non_operasional,snapshot_istantoro_2022_mar_2026,2025-07,monthly,2025,7.0,KPO - TRAINING,pendapatan_non_operasional,2507559.0,2740379.0
+fm_2025_07_kpo_training_beban_non_operasional,snapshot_istantoro_2022_mar_2026,2025-07,monthly,2025,7.0,KPO - TRAINING,beban_non_operasional,891903.0,140404.0
+fm_2025_07_kpo_training_laba_usaha,snapshot_istantoro_2022_mar_2026,2025-07,monthly,2025,7.0,KPO - TRAINING,laba_usaha,49810458.0,206706803.0
+fm_2025_07_kpo_training_laba_sebelum_pajak,snapshot_istantoro_2022_mar_2026,2025-07,monthly,2025,7.0,KPO - TRAINING,laba_sebelum_pajak,50518722.0,210205204.0
+fm_2025_08_mpo_tad_pendapatan,snapshot_istantoro_2022_mar_2026,2025-08,monthly,2025,8.0,MPO - TAD,pendapatan,241758954131.0,295785771482.0
+fm_2025_08_mpo_tad_beban_operasional,snapshot_istantoro_2022_mar_2026,2025-08,monthly,2025,8.0,MPO - TAD,beban_operasional,220530928059.0,267550385892.0
+fm_2025_08_mpo_tad_pendapatan_non_operasional,snapshot_istantoro_2022_mar_2026,2025-08,monthly,2025,8.0,MPO - TAD,pendapatan_non_operasional,1107237371.0,1097615494.0
+fm_2025_08_mpo_tad_beban_non_operasional,snapshot_istantoro_2022_mar_2026,2025-08,monthly,2025,8.0,MPO - TAD,beban_non_operasional,101665880.0,55581437.0
+fm_2025_08_mpo_tad_laba_usaha,snapshot_istantoro_2022_mar_2026,2025-08,monthly,2025,8.0,MPO - TAD,laba_usaha,28928463285.0,25568120901.0
+fm_2025_08_mpo_tad_laba_sebelum_pajak,snapshot_istantoro_2022_mar_2026,2025-08,monthly,2025,8.0,MPO - TAD,laba_sebelum_pajak,29921914135.0,27383238769.0
+fm_2025_08_mpo_rab_pendapatan,snapshot_istantoro_2022_mar_2026,2025-08,monthly,2025,8.0,MPO - RAB,pendapatan,3051326598.0,4646541729.0
+fm_2025_08_mpo_rab_beban_operasional,snapshot_istantoro_2022_mar_2026,2025-08,monthly,2025,8.0,MPO - RAB,beban_operasional,2070197972.0,1945030628.0
+fm_2025_08_mpo_rab_pendapatan_non_operasional,snapshot_istantoro_2022_mar_2026,2025-08,monthly,2025,8.0,MPO - RAB,pendapatan_non_operasional,13943531.0,16703070.0
+fm_2025_08_mpo_rab_beban_non_operasional,snapshot_istantoro_2022_mar_2026,2025-08,monthly,2025,8.0,MPO - RAB,beban_non_operasional,1218953.0,831580.0
+fm_2025_08_mpo_rab_laba_usaha,snapshot_istantoro_2022_mar_2026,2025-08,monthly,2025,8.0,MPO - RAB,laba_usaha,916939353.0,2610091750.0
+fm_2025_08_mpo_rab_laba_sebelum_pajak,snapshot_istantoro_2022_mar_2026,2025-08,monthly,2025,8.0,MPO - RAB,laba_sebelum_pajak,927950142.0,2575786361.0
+fm_2025_08_bpo_pendapatan,snapshot_istantoro_2022_mar_2026,2025-08,monthly,2025,8.0,BPO,pendapatan,16903568266.0,38366886297.0
+fm_2025_08_bpo_beban_operasional,snapshot_istantoro_2022_mar_2026,2025-08,monthly,2025,8.0,BPO,beban_operasional,15873476978.0,30951067150.0
+fm_2025_08_bpo_pendapatan_non_operasional,snapshot_istantoro_2022_mar_2026,2025-08,monthly,2025,8.0,BPO,pendapatan_non_operasional,82064303.0,141991611.0
+fm_2025_08_bpo_beban_non_operasional,snapshot_istantoro_2022_mar_2026,2025-08,monthly,2025,8.0,BPO,beban_non_operasional,7619122.0,6969163.0
+fm_2025_08_bpo_laba_usaha,snapshot_istantoro_2022_mar_2026,2025-08,monthly,2025,8.0,BPO,laba_usaha,1515662219.0,6877124105.0
+fm_2025_08_bpo_laba_sebelum_pajak,snapshot_istantoro_2022_mar_2026,2025-08,monthly,2025,8.0,BPO,laba_sebelum_pajak,1499408237.0,7288520775.0
+fm_2025_08_kpo_diklat_pendapatan,snapshot_istantoro_2022_mar_2026,2025-08,monthly,2025,8.0,KPO - DIKLAT,pendapatan,1154075521.0,2202521200.0
+fm_2025_08_kpo_diklat_beban_operasional,snapshot_istantoro_2022_mar_2026,2025-08,monthly,2025,8.0,KPO - DIKLAT,beban_operasional,1092303463.0,1838057783.0
+fm_2025_08_kpo_diklat_pendapatan_non_operasional,snapshot_istantoro_2022_mar_2026,2025-08,monthly,2025,8.0,KPO - DIKLAT,pendapatan_non_operasional,5546601.0,8237146.0
+fm_2025_08_kpo_diklat_beban_non_operasional,snapshot_istantoro_2022_mar_2026,2025-08,monthly,2025,8.0,KPO - DIKLAT,beban_non_operasional,521700.0,398008.0
+fm_2025_08_kpo_diklat_laba_usaha,snapshot_istantoro_2022_mar_2026,2025-08,monthly,2025,8.0,KPO - DIKLAT,laba_usaha,91431596.0,296460312.0
+fm_2025_08_kpo_diklat_laba_sebelum_pajak,snapshot_istantoro_2022_mar_2026,2025-08,monthly,2025,8.0,KPO - DIKLAT,laba_sebelum_pajak,91840800.0,302613326.0
+fm_2025_08_kpo_training_pendapatan,snapshot_istantoro_2022_mar_2026,2025-08,monthly,2025,8.0,KPO - TRAINING,pendapatan,363141660.0,743201055.0
+fm_2025_08_kpo_training_beban_operasional,snapshot_istantoro_2022_mar_2026,2025-08,monthly,2025,8.0,KPO - TRAINING,beban_operasional,395887760.0,518333155.0
+fm_2025_08_kpo_training_pendapatan_non_operasional,snapshot_istantoro_2022_mar_2026,2025-08,monthly,2025,8.0,KPO - TRAINING,pendapatan_non_operasional,1714939.0,2736305.0
+fm_2025_08_kpo_training_beban_non_operasional,snapshot_istantoro_2022_mar_2026,2025-08,monthly,2025,8.0,KPO - TRAINING,beban_non_operasional,164946.0,137486.0
+fm_2025_08_kpo_training_laba_usaha,snapshot_istantoro_2022_mar_2026,2025-08,monthly,2025,8.0,KPO - TRAINING,laba_usaha,-11372445.0,214633830.0
+fm_2025_08_kpo_training_laba_sebelum_pajak,snapshot_istantoro_2022_mar_2026,2025-08,monthly,2025,8.0,KPO - TRAINING,laba_sebelum_pajak,-9326135.0,212434752.0
+fm_2025_09_mpo_tad_pendapatan,snapshot_istantoro_2022_mar_2026,2025-09,monthly,2025,9.0,MPO - TAD,pendapatan,270375905694.0,294547859670.0
+fm_2025_09_mpo_tad_beban_operasional,snapshot_istantoro_2022_mar_2026,2025-09,monthly,2025,9.0,MPO - TAD,beban_operasional,247883194907.0,280907055404.0
+fm_2025_09_mpo_tad_pendapatan_non_operasional,snapshot_istantoro_2022_mar_2026,2025-09,monthly,2025,9.0,MPO - TAD,pendapatan_non_operasional,902041919.0,1151526873.0
+fm_2025_09_mpo_tad_beban_non_operasional,snapshot_istantoro_2022_mar_2026,2025-09,monthly,2025,9.0,MPO - TAD,beban_non_operasional,88072740.0,55391125.0
+fm_2025_09_mpo_tad_laba_usaha,snapshot_istantoro_2022_mar_2026,2025-09,monthly,2025,9.0,MPO - TAD,laba_usaha,30334774298.0,25183175035.0
+fm_2025_09_mpo_tad_laba_sebelum_pajak,snapshot_istantoro_2022_mar_2026,2025-09,monthly,2025,9.0,MPO - TAD,laba_sebelum_pajak,29530155992.0,26387444812.0
+fm_2025_09_mpo_rab_pendapatan,snapshot_istantoro_2022_mar_2026,2025-09,monthly,2025,9.0,MPO - RAB,pendapatan,3921733000.0,4427935483.0
+fm_2025_09_mpo_rab_beban_operasional,snapshot_istantoro_2022_mar_2026,2025-09,monthly,2025,9.0,MPO - RAB,beban_operasional,2007271315.0,2012480429.0
+fm_2025_09_mpo_rab_pendapatan_non_operasional,snapshot_istantoro_2022_mar_2026,2025-09,monthly,2025,9.0,MPO - RAB,pendapatan_non_operasional,12041253.0,16559009.0
+fm_2025_09_mpo_rab_beban_non_operasional,snapshot_istantoro_2022_mar_2026,2025-09,monthly,2025,9.0,MPO - RAB,beban_non_operasional,1150251.0,841472.0
+fm_2025_09_mpo_rab_laba_usaha,snapshot_istantoro_2022_mar_2026,2025-09,monthly,2025,9.0,MPO - RAB,laba_usaha,1747114963.0,2560833734.0
+fm_2025_09_mpo_rab_laba_sebelum_pajak,snapshot_istantoro_2022_mar_2026,2025-09,monthly,2025,9.0,MPO - RAB,laba_sebelum_pajak,1742768312.0,2620628562.0
+fm_2025_09_bpo_pendapatan,snapshot_istantoro_2022_mar_2026,2025-09,monthly,2025,9.0,BPO,pendapatan,15494135222.0,38429201423.0
+fm_2025_09_bpo_beban_operasional,snapshot_istantoro_2022_mar_2026,2025-09,monthly,2025,9.0,BPO,beban_operasional,15495356031.0,31735913028.0
+fm_2025_09_bpo_pendapatan_non_operasional,snapshot_istantoro_2022_mar_2026,2025-09,monthly,2025,9.0,BPO,pendapatan_non_operasional,51204126.0,139056219.0
+fm_2025_09_bpo_beban_non_operasional,snapshot_istantoro_2022_mar_2026,2025-09,monthly,2025,9.0,BPO,beban_non_operasional,5084246.0,6790711.0
+fm_2025_09_bpo_laba_usaha,snapshot_istantoro_2022_mar_2026,2025-09,monthly,2025,9.0,BPO,laba_usaha,964344452.0,6811290353.0
+fm_2025_09_bpo_laba_sebelum_pajak,snapshot_istantoro_2022_mar_2026,2025-09,monthly,2025,9.0,BPO,laba_sebelum_pajak,933771617.0,7267894740.0
+fm_2025_09_kpo_diklat_pendapatan,snapshot_istantoro_2022_mar_2026,2025-09,monthly,2025,9.0,KPO - DIKLAT,pendapatan,822383712.0,2216868487.0
+fm_2025_09_kpo_diklat_beban_operasional,snapshot_istantoro_2022_mar_2026,2025-09,monthly,2025,9.0,KPO - DIKLAT,beban_operasional,626074428.0,1889603441.0
+fm_2025_09_kpo_diklat_pendapatan_non_operasional,snapshot_istantoro_2022_mar_2026,2025-09,monthly,2025,9.0,KPO - DIKLAT,pendapatan_non_operasional,2540454.0,8107582.0
+fm_2025_09_kpo_diklat_beban_non_operasional,snapshot_istantoro_2022_mar_2026,2025-09,monthly,2025,9.0,KPO - DIKLAT,beban_non_operasional,260676.0,402253.0
+fm_2025_09_kpo_diklat_laba_usaha,snapshot_istantoro_2022_mar_2026,2025-09,monthly,2025,9.0,KPO - DIKLAT,laba_usaha,159302220.0,283963631.0
+fm_2025_09_kpo_diklat_laba_sebelum_pajak,snapshot_istantoro_2022_mar_2026,2025-09,monthly,2025,9.0,KPO - DIKLAT,laba_sebelum_pajak,165686659.0,304656549.0
+fm_2025_09_kpo_training_pendapatan,snapshot_istantoro_2022_mar_2026,2025-09,monthly,2025,9.0,KPO - TRAINING,pendapatan,625904903.0,742912454.0
+fm_2025_09_kpo_training_beban_operasional,snapshot_istantoro_2022_mar_2026,2025-09,monthly,2025,9.0,KPO - TRAINING,beban_operasional,602185412.0,529880826.0
+fm_2025_09_kpo_training_pendapatan_non_operasional,snapshot_istantoro_2022_mar_2026,2025-09,monthly,2025,9.0,KPO - TRAINING,pendapatan_non_operasional,1981701.0,2777968.0
+fm_2025_09_kpo_training_beban_non_operasional,snapshot_istantoro_2022_mar_2026,2025-09,monthly,2025,9.0,KPO - TRAINING,beban_non_operasional,189754.0,133415.0
+fm_2025_09_kpo_training_laba_usaha,snapshot_istantoro_2022_mar_2026,2025-09,monthly,2025,9.0,KPO - TRAINING,laba_usaha,27759791.0,208665083.0
+fm_2025_09_kpo_training_laba_sebelum_pajak,snapshot_istantoro_2022_mar_2026,2025-09,monthly,2025,9.0,KPO - TRAINING,laba_sebelum_pajak,29797964.0,218644946.0
+fm_2025_10_mpo_tad_pendapatan,snapshot_istantoro_2022_mar_2026,2025-10,monthly,2025,10.0,MPO - TAD,pendapatan,272254371505.0,293526221028.0
+fm_2025_10_mpo_tad_beban_operasional,snapshot_istantoro_2022_mar_2026,2025-10,monthly,2025,10.0,MPO - TAD,beban_operasional,225416232090.0,277077526235.0
+fm_2025_10_mpo_tad_pendapatan_non_operasional,snapshot_istantoro_2022_mar_2026,2025-10,monthly,2025,10.0,MPO - TAD,pendapatan_non_operasional,989786887.0,1101906673.0
+fm_2025_10_mpo_tad_beban_non_operasional,snapshot_istantoro_2022_mar_2026,2025-10,monthly,2025,10.0,MPO - TAD,beban_non_operasional,84298544.0,54938520.0
+fm_2025_10_mpo_tad_laba_usaha,snapshot_istantoro_2022_mar_2026,2025-10,monthly,2025,10.0,MPO - TAD,laba_usaha,31609864702.0,25363535729.0
+fm_2025_10_mpo_tad_laba_sebelum_pajak,snapshot_istantoro_2022_mar_2026,2025-10,monthly,2025,10.0,MPO - TAD,laba_sebelum_pajak,34465110898.0,26521260927.0
+fm_2025_10_mpo_rab_pendapatan,snapshot_istantoro_2022_mar_2026,2025-10,monthly,2025,10.0,MPO - RAB,pendapatan,3113822823.0,4619621931.0
+fm_2025_10_mpo_rab_beban_operasional,snapshot_istantoro_2022_mar_2026,2025-10,monthly,2025,10.0,MPO - RAB,beban_operasional,2916635090.0,1939764586.0
+fm_2025_10_mpo_rab_pendapatan_non_operasional,snapshot_istantoro_2022_mar_2026,2025-10,monthly,2025,10.0,MPO - RAB,pendapatan_non_operasional,11904708.0,17015228.0
+fm_2025_10_mpo_rab_beban_non_operasional,snapshot_istantoro_2022_mar_2026,2025-10,monthly,2025,10.0,MPO - RAB,beban_non_operasional,974355.0,836423.0
+fm_2025_10_mpo_rab_laba_usaha,snapshot_istantoro_2022_mar_2026,2025-10,monthly,2025,10.0,MPO - RAB,laba_usaha,65865906.0,2621520951.0
+fm_2025_10_mpo_rab_laba_sebelum_pajak,snapshot_istantoro_2022_mar_2026,2025-10,monthly,2025,10.0,MPO - RAB,laba_sebelum_pajak,82441473.0,2680600895.0
+fm_2025_10_bpo_pendapatan,snapshot_istantoro_2022_mar_2026,2025-10,monthly,2025,10.0,BPO,pendapatan,17481908070.0,38614632463.0
+fm_2025_10_bpo_beban_operasional,snapshot_istantoro_2022_mar_2026,2025-10,monthly,2025,10.0,BPO,beban_operasional,17390399947.0,30587947881.0
+fm_2025_10_bpo_pendapatan_non_operasional,snapshot_istantoro_2022_mar_2026,2025-10,monthly,2025,10.0,BPO,pendapatan_non_operasional,66287518.0,137567926.0
+fm_2025_10_bpo_beban_non_operasional,snapshot_istantoro_2022_mar_2026,2025-10,monthly,2025,10.0,BPO,beban_non_operasional,5741260.0,6896183.0
+fm_2025_10_bpo_laba_usaha,snapshot_istantoro_2022_mar_2026,2025-10,monthly,2025,10.0,BPO,laba_usaha,625101952.0,7002713716.0
+fm_2025_10_bpo_laba_sebelum_pajak,snapshot_istantoro_2022_mar_2026,2025-10,monthly,2025,10.0,BPO,laba_sebelum_pajak,660132955.0,6906519157.0
+fm_2025_10_kpo_diklat_pendapatan,snapshot_istantoro_2022_mar_2026,2025-10,monthly,2025,10.0,KPO - DIKLAT,pendapatan,1874786782.0,2167755028.0
+fm_2025_10_kpo_diklat_beban_operasional,snapshot_istantoro_2022_mar_2026,2025-10,monthly,2025,10.0,KPO - DIKLAT,beban_operasional,1324446993.0,1889539164.0
+fm_2025_10_kpo_diklat_pendapatan_non_operasional,snapshot_istantoro_2022_mar_2026,2025-10,monthly,2025,10.0,KPO - DIKLAT,pendapatan_non_operasional,6834902.0,7978828.0
+fm_2025_10_kpo_diklat_beban_non_operasional,snapshot_istantoro_2022_mar_2026,2025-10,monthly,2025,10.0,KPO - DIKLAT,beban_non_operasional,595131.0,404783.0
+fm_2025_10_kpo_diklat_laba_usaha,snapshot_istantoro_2022_mar_2026,2025-10,monthly,2025,10.0,KPO - DIKLAT,laba_usaha,439825894.0,282768612.0
+fm_2025_10_kpo_diklat_laba_sebelum_pajak,snapshot_istantoro_2022_mar_2026,2025-10,monthly,2025,10.0,KPO - DIKLAT,laba_sebelum_pajak,430390396.0,289687332.0
+fm_2025_10_kpo_training_pendapatan,snapshot_istantoro_2022_mar_2026,2025-10,monthly,2025,10.0,KPO - TRAINING,pendapatan,1087426373.0,756772243.0
+fm_2025_10_kpo_training_beban_operasional,snapshot_istantoro_2022_mar_2026,2025-10,monthly,2025,10.0,KPO - TRAINING,beban_operasional,791288948.0,533478064.0
+fm_2025_10_kpo_training_pendapatan_non_operasional,snapshot_istantoro_2022_mar_2026,2025-10,monthly,2025,10.0,KPO - TRAINING,pendapatan_non_operasional,4060636.0,2806185.0
+fm_2025_10_kpo_training_beban_non_operasional,snapshot_istantoro_2022_mar_2026,2025-10,monthly,2025,10.0,KPO - TRAINING,beban_non_operasional,333431.0,136607.0
+fm_2025_10_kpo_training_laba_usaha,snapshot_istantoro_2022_mar_2026,2025-10,monthly,2025,10.0,KPO - TRAINING,laba_usaha,282681121.0,209688656.0
+fm_2025_10_kpo_training_laba_sebelum_pajak,snapshot_istantoro_2022_mar_2026,2025-10,monthly,2025,10.0,KPO - TRAINING,laba_sebelum_pajak,288803436.0,219693487.0
+fm_2025_11_mpo_tad_pendapatan,snapshot_istantoro_2022_mar_2026,2025-11,monthly,2025,11.0,MPO - TAD,pendapatan,291367035348.0,306471012598.0
+fm_2025_11_mpo_tad_beban_operasional,snapshot_istantoro_2022_mar_2026,2025-11,monthly,2025,11.0,MPO - TAD,beban_operasional,252253826055.0,278590058096.0
+fm_2025_11_mpo_tad_pendapatan_non_operasional,snapshot_istantoro_2022_mar_2026,2025-11,monthly,2025,11.0,MPO - TAD,pendapatan_non_operasional,472925511.0,1103705765.0
+fm_2025_11_mpo_tad_beban_non_operasional,snapshot_istantoro_2022_mar_2026,2025-11,monthly,2025,11.0,MPO - TAD,beban_non_operasional,141245208.0,55605293.0
+fm_2025_11_mpo_tad_laba_usaha,snapshot_istantoro_2022_mar_2026,2025-11,monthly,2025,11.0,MPO - TAD,laba_usaha,36278917111.0,25474945043.0
+fm_2025_11_mpo_tad_laba_sebelum_pajak,snapshot_istantoro_2022_mar_2026,2025-11,monthly,2025,11.0,MPO - TAD,laba_sebelum_pajak,38499855151.0,26097348992.0
+fm_2025_11_mpo_rab_pendapatan,snapshot_istantoro_2022_mar_2026,2025-11,monthly,2025,11.0,MPO - RAB,pendapatan,2775018383.0,4673864337.0
+fm_2025_11_mpo_rab_beban_operasional,snapshot_istantoro_2022_mar_2026,2025-11,monthly,2025,11.0,MPO - RAB,beban_operasional,2429530878.0,1920877666.0
+fm_2025_11_mpo_rab_pendapatan_non_operasional,snapshot_istantoro_2022_mar_2026,2025-11,monthly,2025,11.0,MPO - RAB,pendapatan_non_operasional,4789060.0,17405533.0
+fm_2025_11_mpo_rab_beban_non_operasional,snapshot_istantoro_2022_mar_2026,2025-11,monthly,2025,11.0,MPO - RAB,beban_non_operasional,1340025.0,834913.0
+fm_2025_11_mpo_rab_laba_usaha,snapshot_istantoro_2022_mar_2026,2025-11,monthly,2025,11.0,MPO - RAB,laba_usaha,436332470.0,2546983052.0
+fm_2025_11_mpo_rab_laba_sebelum_pajak,snapshot_istantoro_2022_mar_2026,2025-11,monthly,2025,11.0,MPO - RAB,laba_sebelum_pajak,467878477.0,2618704401.0
+fm_2025_11_bpo_pendapatan,snapshot_istantoro_2022_mar_2026,2025-11,monthly,2025,11.0,BPO,pendapatan,16578566761.0,38935385392.0
+fm_2025_11_bpo_beban_operasional,snapshot_istantoro_2022_mar_2026,2025-11,monthly,2025,11.0,BPO,beban_operasional,13021238385.0,31553828183.0
+fm_2025_11_bpo_pendapatan_non_operasional,snapshot_istantoro_2022_mar_2026,2025-11,monthly,2025,11.0,BPO,pendapatan_non_operasional,27349898.0,144153192.0
+fm_2025_11_bpo_beban_non_operasional,snapshot_istantoro_2022_mar_2026,2025-11,monthly,2025,11.0,BPO,beban_non_operasional,8343381.0,7062625.0
+fm_2025_11_bpo_laba_usaha,snapshot_istantoro_2022_mar_2026,2025-11,monthly,2025,11.0,BPO,laba_usaha,2702069426.0,7043321315.0
+fm_2025_11_bpo_laba_sebelum_pajak,snapshot_istantoro_2022_mar_2026,2025-11,monthly,2025,11.0,BPO,laba_sebelum_pajak,2934527306.0,7246251630.0
+fm_2025_11_kpo_diklat_pendapatan,snapshot_istantoro_2022_mar_2026,2025-11,monthly,2025,11.0,KPO - DIKLAT,pendapatan,2476138888.0,2135661150.0
+fm_2025_11_kpo_diklat_beban_operasional,snapshot_istantoro_2022_mar_2026,2025-11,monthly,2025,11.0,KPO - DIKLAT,beban_operasional,534672272.0,1877431299.0
+fm_2025_11_kpo_diklat_pendapatan_non_operasional,snapshot_istantoro_2022_mar_2026,2025-11,monthly,2025,11.0,KPO - DIKLAT,pendapatan_non_operasional,4050000.0,7924172.0
+fm_2025_11_kpo_diklat_beban_non_operasional,snapshot_istantoro_2022_mar_2026,2025-11,monthly,2025,11.0,KPO - DIKLAT,beban_non_operasional,1269998.0,409963.0
+fm_2025_11_kpo_diklat_laba_usaha,snapshot_istantoro_2022_mar_2026,2025-11,monthly,2025,11.0,KPO - DIKLAT,laba_usaha,1844580890.0,297320560.0
+fm_2025_11_kpo_diklat_laba_sebelum_pajak,snapshot_istantoro_2022_mar_2026,2025-11,monthly,2025,11.0,KPO - DIKLAT,laba_sebelum_pajak,1846878401.0,289050395.0
+fm_2025_11_kpo_training_pendapatan,snapshot_istantoro_2022_mar_2026,2025-11,monthly,2025,11.0,KPO - TRAINING,pendapatan,1481849417.0,755759312.0
+fm_2025_11_kpo_training_beban_operasional,snapshot_istantoro_2022_mar_2026,2025-11,monthly,2025,11.0,KPO - TRAINING,beban_operasional,1399612109.0,547237742.0
+fm_2025_11_kpo_training_pendapatan_non_operasional,snapshot_istantoro_2022_mar_2026,2025-11,monthly,2025,11.0,KPO - TRAINING,pendapatan_non_operasional,2624210.0,2721637.0
+fm_2025_11_kpo_training_beban_non_operasional,snapshot_istantoro_2022_mar_2026,2025-11,monthly,2025,11.0,KPO - TRAINING,beban_non_operasional,735448.0,137702.0
+fm_2025_11_kpo_training_laba_usaha,snapshot_istantoro_2022_mar_2026,2025-11,monthly,2025,11.0,KPO - TRAINING,laba_usaha,96005820.0,218236710.0
+fm_2025_11_kpo_training_laba_sebelum_pajak,snapshot_istantoro_2022_mar_2026,2025-11,monthly,2025,11.0,KPO - TRAINING,laba_sebelum_pajak,94870901.0,209538295.0
+fm_2025_12_mpo_tad_pendapatan,snapshot_istantoro_2022_mar_2026,2025-12,monthly,2025,12.0,MPO - TAD,pendapatan,299857875079.0,304628589734.0
+fm_2025_12_mpo_tad_beban_operasional,snapshot_istantoro_2022_mar_2026,2025-12,monthly,2025,12.0,MPO - TAD,beban_operasional,254282416814.0,272024927387.0
+fm_2025_12_mpo_tad_pendapatan_non_operasional,snapshot_istantoro_2022_mar_2026,2025-12,monthly,2025,12.0,MPO - TAD,pendapatan_non_operasional,602433072.0,1147498057.0
+fm_2025_12_mpo_tad_beban_non_operasional,snapshot_istantoro_2022_mar_2026,2025-12,monthly,2025,12.0,MPO - TAD,beban_non_operasional,49378852.0,56869013.0
+fm_2025_12_mpo_tad_laba_usaha,snapshot_istantoro_2022_mar_2026,2025-12,monthly,2025,12.0,MPO - TAD,laba_usaha,37450602538.0,26374005419.0
+fm_2025_12_mpo_tad_laba_sebelum_pajak,snapshot_istantoro_2022_mar_2026,2025-12,monthly,2025,12.0,MPO - TAD,laba_sebelum_pajak,39496027636.0,26711540886.0
+fm_2025_12_mpo_rab_pendapatan,snapshot_istantoro_2022_mar_2026,2025-12,monthly,2025,12.0,MPO - RAB,pendapatan,2721917313.0,4658743224.0
+fm_2025_12_mpo_rab_beban_operasional,snapshot_istantoro_2022_mar_2026,2025-12,monthly,2025,12.0,MPO - RAB,beban_operasional,2633532083.0,2004262550.0
+fm_2025_12_mpo_rab_pendapatan_non_operasional,snapshot_istantoro_2022_mar_2026,2025-12,monthly,2025,12.0,MPO - RAB,pendapatan_non_operasional,5689734.0,16763753.0
+fm_2025_12_mpo_rab_beban_non_operasional,snapshot_istantoro_2022_mar_2026,2025-12,monthly,2025,12.0,MPO - RAB,beban_non_operasional,447666.0,854157.0
+fm_2025_12_mpo_rab_laba_usaha,snapshot_istantoro_2022_mar_2026,2025-12,monthly,2025,12.0,MPO - RAB,laba_usaha,211532321.0,2523910814.0
+fm_2025_12_mpo_rab_laba_sebelum_pajak,snapshot_istantoro_2022_mar_2026,2025-12,monthly,2025,12.0,MPO - RAB,laba_sebelum_pajak,228796821.0,2627225548.0
+fm_2025_12_bpo_pendapatan,snapshot_istantoro_2022_mar_2026,2025-12,monthly,2025,12.0,BPO,pendapatan,18185402668.0,37466279224.0
+fm_2025_12_bpo_beban_operasional,snapshot_istantoro_2022_mar_2026,2025-12,monthly,2025,12.0,BPO,beban_operasional,16282375308.0,30411732478.0
+fm_2025_12_bpo_pendapatan_non_operasional,snapshot_istantoro_2022_mar_2026,2025-12,monthly,2025,12.0,BPO,pendapatan_non_operasional,38632960.0,137956650.0
+fm_2025_12_bpo_beban_non_operasional,snapshot_istantoro_2022_mar_2026,2025-12,monthly,2025,12.0,BPO,beban_non_operasional,2850346.0,7078368.0
+fm_2025_12_bpo_laba_usaha,snapshot_istantoro_2022_mar_2026,2025-12,monthly,2025,12.0,BPO,laba_usaha,1566644938.0,6896095141.0
+fm_2025_12_bpo_laba_sebelum_pajak,snapshot_istantoro_2022_mar_2026,2025-12,monthly,2025,12.0,BPO,laba_sebelum_pajak,1695256890.0,7193263250.0
+fm_2025_12_kpo_diklat_pendapatan,snapshot_istantoro_2022_mar_2026,2025-12,monthly,2025,12.0,KPO - DIKLAT,pendapatan,1490727703.0,2111683369.0
+fm_2025_12_kpo_diklat_beban_operasional,snapshot_istantoro_2022_mar_2026,2025-12,monthly,2025,12.0,KPO - DIKLAT,beban_operasional,1251897211.0,1857803297.0
+fm_2025_12_kpo_diklat_pendapatan_non_operasional,snapshot_istantoro_2022_mar_2026,2025-12,monthly,2025,12.0,KPO - DIKLAT,pendapatan_non_operasional,3034029.0,8078073.0
+fm_2025_12_kpo_diklat_beban_non_operasional,snapshot_istantoro_2022_mar_2026,2025-12,monthly,2025,12.0,KPO - DIKLAT,beban_non_operasional,261043.0,405256.0
+fm_2025_12_kpo_diklat_laba_usaha,snapshot_istantoro_2022_mar_2026,2025-12,monthly,2025,12.0,KPO - DIKLAT,laba_usaha,321250887.0,286455061.0
+fm_2025_12_kpo_diklat_laba_sebelum_pajak,snapshot_istantoro_2022_mar_2026,2025-12,monthly,2025,12.0,KPO - DIKLAT,laba_sebelum_pajak,352851815.0,299510523.0
+fm_2025_12_kpo_training_pendapatan,snapshot_istantoro_2022_mar_2026,2025-12,monthly,2025,12.0,KPO - TRAINING,pendapatan,833545314.0,763840095.0
+fm_2025_12_kpo_training_beban_operasional,snapshot_istantoro_2022_mar_2026,2025-12,monthly,2025,12.0,KPO - TRAINING,beban_operasional,639698305.0,537332052.0
+fm_2025_12_kpo_training_pendapatan_non_operasional,snapshot_istantoro_2022_mar_2026,2025-12,monthly,2025,12.0,KPO - TRAINING,pendapatan_non_operasional,1655699.0,2730359.0
+fm_2025_12_kpo_training_beban_non_operasional,snapshot_istantoro_2022_mar_2026,2025-12,monthly,2025,12.0,KPO - TRAINING,beban_non_operasional,135913.0,133230.0
+fm_2025_12_kpo_training_laba_usaha,snapshot_istantoro_2022_mar_2026,2025-12,monthly,2025,12.0,KPO - TRAINING,laba_usaha,231997363.0,217656828.0
+fm_2025_12_kpo_training_laba_sebelum_pajak,snapshot_istantoro_2022_mar_2026,2025-12,monthly,2025,12.0,KPO - TRAINING,laba_sebelum_pajak,223707473.0,209374337.0
+fm_2026_01_mpo_tad_pendapatan,snapshot_istantoro_2022_mar_2026,2026-01,monthly,2026,1.0,MPO - TAD,pendapatan,276024540683.0,244970313228.0
+fm_2026_01_mpo_tad_beban_operasional,snapshot_istantoro_2022_mar_2026,2026-01,monthly,2026,1.0,MPO - TAD,beban_operasional,259379198272.0,223847939307.0
+fm_2026_01_mpo_tad_pendapatan_non_operasional,snapshot_istantoro_2022_mar_2026,2026-01,monthly,2026,1.0,MPO - TAD,pendapatan_non_operasional,557675711.0,532700611.0
+fm_2026_01_mpo_tad_beban_non_operasional,snapshot_istantoro_2022_mar_2026,2026-01,monthly,2026,1.0,MPO - TAD,beban_non_operasional,55185597.0,58602701.0
+fm_2026_01_mpo_tad_laba_usaha,snapshot_istantoro_2022_mar_2026,2026-01,monthly,2026,1.0,MPO - TAD,laba_usaha,18251684986.0,16605722079.0
+fm_2026_01_mpo_tad_laba_sebelum_pajak,snapshot_istantoro_2022_mar_2026,2026-01,monthly,2026,1.0,MPO - TAD,laba_sebelum_pajak,19351162788.0,16436896604.0
+fm_2026_01_mpo_rab_pendapatan,snapshot_istantoro_2022_mar_2026,2026-01,monthly,2026,1.0,MPO - RAB,pendapatan,1972034520.0,3747842775.0
+fm_2026_01_mpo_rab_beban_operasional,snapshot_istantoro_2022_mar_2026,2026-01,monthly,2026,1.0,MPO - RAB,beban_operasional,2501979165.0,1361372861.0
+fm_2026_01_mpo_rab_pendapatan_non_operasional,snapshot_istantoro_2022_mar_2026,2026-01,monthly,2026,1.0,MPO - RAB,pendapatan_non_operasional,4438622.0,7981455.0
+fm_2026_01_mpo_rab_beban_non_operasional,snapshot_istantoro_2022_mar_2026,2026-01,monthly,2026,1.0,MPO - RAB,beban_non_operasional,429242.0,893156.0
+fm_2026_01_mpo_rab_laba_usaha,snapshot_istantoro_2022_mar_2026,2026-01,monthly,2026,1.0,MPO - RAB,laba_usaha,-489884303.0,2371276858.0
+fm_2026_01_mpo_rab_laba_sebelum_pajak,snapshot_istantoro_2022_mar_2026,2026-01,monthly,2026,1.0,MPO - RAB,laba_sebelum_pajak,-494097346.0,2393951720.0
+fm_2026_01_bpo_pendapatan,snapshot_istantoro_2022_mar_2026,2026-01,monthly,2026,1.0,BPO,pendapatan,14940361957.0,24162639458.0
+fm_2026_01_bpo_beban_operasional,snapshot_istantoro_2022_mar_2026,2026-01,monthly,2026,1.0,BPO,beban_operasional,13589916224.0,21059660059.0
+fm_2026_01_bpo_pendapatan_non_operasional,snapshot_istantoro_2022_mar_2026,2026-01,monthly,2026,1.0,BPO,pendapatan_non_operasional,31300812.0,51272894.0
+fm_2026_01_bpo_beban_non_operasional,snapshot_istantoro_2022_mar_2026,2026-01,monthly,2026,1.0,BPO,beban_non_operasional,3010784.0,5795619.0
+fm_2026_01_bpo_laba_usaha,snapshot_istantoro_2022_mar_2026,2026-01,monthly,2026,1.0,BPO,laba_usaha,1263617477.0,2574787380.0
+fm_2026_01_bpo_laba_sebelum_pajak,snapshot_istantoro_2022_mar_2026,2026-01,monthly,2026,1.0,BPO,laba_sebelum_pajak,1227380471.0,2599381939.0
+fm_2026_01_kpo_diklat_pendapatan,snapshot_istantoro_2022_mar_2026,2026-01,monthly,2026,1.0,KPO - DIKLAT,pendapatan,1489865626.0,1546855230.0
+fm_2026_01_kpo_diklat_beban_operasional,snapshot_istantoro_2022_mar_2026,2026-01,monthly,2026,1.0,KPO - DIKLAT,beban_operasional,1024141109.0,1396801368.0
+fm_2026_01_kpo_diklat_pendapatan_non_operasional,snapshot_istantoro_2022_mar_2026,2026-01,monthly,2026,1.0,KPO - DIKLAT,pendapatan_non_operasional,2982198.0,3339232.0
+fm_2026_01_kpo_diklat_beban_non_operasional,snapshot_istantoro_2022_mar_2026,2026-01,monthly,2026,1.0,KPO - DIKLAT,beban_non_operasional,285457.0,368978.0
+fm_2026_01_kpo_diklat_laba_usaha,snapshot_istantoro_2022_mar_2026,2026-01,monthly,2026,1.0,KPO - DIKLAT,laba_usaha,437243190.0,141603264.0
+fm_2026_01_kpo_diklat_laba_sebelum_pajak,snapshot_istantoro_2022_mar_2026,2026-01,monthly,2026,1.0,KPO - DIKLAT,laba_sebelum_pajak,462442719.0,144310311.0
+fm_2026_01_kpo_training_pendapatan,snapshot_istantoro_2022_mar_2026,2026-01,monthly,2026,1.0,KPO - TRAINING,pendapatan,134036236.0,233557007.0
+fm_2026_01_kpo_training_beban_operasional,snapshot_istantoro_2022_mar_2026,2026-01,monthly,2026,1.0,KPO - TRAINING,beban_operasional,138056377.0,202943681.0
+fm_2026_01_kpo_training_pendapatan_non_operasional,snapshot_istantoro_2022_mar_2026,2026-01,monthly,2026,1.0,KPO - TRAINING,pendapatan_non_operasional,281682.0,488173.0
+fm_2026_01_kpo_training_beban_non_operasional,snapshot_istantoro_2022_mar_2026,2026-01,monthly,2026,1.0,KPO - TRAINING,beban_non_operasional,27165.0,55114.0
+fm_2026_01_kpo_training_laba_usaha,snapshot_istantoro_2022_mar_2026,2026-01,monthly,2026,1.0,KPO - TRAINING,laba_usaha,-11778720.0,22699353.0
+fm_2026_01_kpo_training_laba_sebelum_pajak,snapshot_istantoro_2022_mar_2026,2026-01,monthly,2026,1.0,KPO - TRAINING,laba_sebelum_pajak,-11276383.0,24161904.0
+fm_2026_02_mpo_tad_pendapatan,snapshot_istantoro_2022_mar_2026,2026-02,monthly,2026,2.0,MPO - TAD,pendapatan,281532526305.0,243700182930.0
+fm_2026_02_mpo_tad_beban_operasional,snapshot_istantoro_2022_mar_2026,2026-02,monthly,2026,2.0,MPO - TAD,beban_operasional,251760095461.0,217954949749.0
+fm_2026_02_mpo_tad_pendapatan_non_operasional,snapshot_istantoro_2022_mar_2026,2026-02,monthly,2026,2.0,MPO - TAD,pendapatan_non_operasional,546181297.0,516460654.0
+fm_2026_02_mpo_tad_beban_non_operasional,snapshot_istantoro_2022_mar_2026,2026-02,monthly,2026,2.0,MPO - TAD,beban_non_operasional,59447985.0,58880198.0
+fm_2026_02_mpo_tad_laba_usaha,snapshot_istantoro_2022_mar_2026,2026-02,monthly,2026,2.0,MPO - TAD,laba_usaha,23423919512.0,16554252248.0
+fm_2026_02_mpo_tad_laba_sebelum_pajak,snapshot_istantoro_2022_mar_2026,2026-02,monthly,2026,2.0,MPO - TAD,laba_sebelum_pajak,23821755950.0,16553017722.0
+fm_2026_02_mpo_rab_pendapatan,snapshot_istantoro_2022_mar_2026,2026-02,monthly,2026,2.0,MPO - RAB,pendapatan,1993340957.0,3713808490.0
+fm_2026_02_mpo_rab_beban_operasional,snapshot_istantoro_2022_mar_2026,2026-02,monthly,2026,2.0,MPO - RAB,beban_operasional,481346571.0,1342072353.0
+fm_2026_02_mpo_rab_pendapatan_non_operasional,snapshot_istantoro_2022_mar_2026,2026-02,monthly,2026,2.0,MPO - RAB,pendapatan_non_operasional,3980623.0,8226602.0
+fm_2026_02_mpo_rab_beban_non_operasional,snapshot_istantoro_2022_mar_2026,2026-02,monthly,2026,2.0,MPO - RAB,beban_non_operasional,401253.0,872105.0
+fm_2026_02_mpo_rab_laba_usaha,snapshot_istantoro_2022_mar_2026,2026-02,monthly,2026,2.0,MPO - RAB,laba_usaha,1566029277.0,2380886272.0
+fm_2026_02_mpo_rab_laba_sebelum_pajak,snapshot_istantoro_2022_mar_2026,2026-02,monthly,2026,2.0,MPO - RAB,laba_sebelum_pajak,1536286322.0,2347270054.0
+fm_2026_02_bpo_pendapatan,snapshot_istantoro_2022_mar_2026,2026-02,monthly,2026,2.0,BPO,pendapatan,13613984580.0,23933587071.0
+fm_2026_02_bpo_beban_operasional,snapshot_istantoro_2022_mar_2026,2026-02,monthly,2026,2.0,BPO,beban_operasional,12515423456.0,21180195943.0
+fm_2026_02_bpo_pendapatan_non_operasional,snapshot_istantoro_2022_mar_2026,2026-02,monthly,2026,2.0,BPO,pendapatan_non_operasional,25281372.0,50683488.0
+fm_2026_02_bpo_beban_non_operasional,snapshot_istantoro_2022_mar_2026,2026-02,monthly,2026,2.0,BPO,beban_non_operasional,2670379.0,5603262.0
+fm_2026_02_bpo_laba_usaha,snapshot_istantoro_2022_mar_2026,2026-02,monthly,2026,2.0,BPO,laba_usaha,893866227.0,2571916670.0
+fm_2026_02_bpo_laba_sebelum_pajak,snapshot_istantoro_2022_mar_2026,2026-02,monthly,2026,2.0,BPO,laba_sebelum_pajak,902399096.0,2611513052.0
+fm_2026_02_kpo_diklat_pendapatan,snapshot_istantoro_2022_mar_2026,2026-02,monthly,2026,2.0,KPO - DIKLAT,pendapatan,841310998.0,1586643602.0
+fm_2026_02_kpo_diklat_beban_operasional,snapshot_istantoro_2022_mar_2026,2026-02,monthly,2026,2.0,KPO - DIKLAT,beban_operasional,629471552.0,1402139895.0
+fm_2026_02_kpo_diklat_pendapatan_non_operasional,snapshot_istantoro_2022_mar_2026,2026-02,monthly,2026,2.0,KPO - DIKLAT,pendapatan_non_operasional,1707467.0,3290863.0
+fm_2026_02_kpo_diklat_beban_non_operasional,snapshot_istantoro_2022_mar_2026,2026-02,monthly,2026,2.0,KPO - DIKLAT,beban_non_operasional,190429.0,385525.0
+fm_2026_02_kpo_diklat_laba_usaha,snapshot_istantoro_2022_mar_2026,2026-02,monthly,2026,2.0,KPO - DIKLAT,laba_usaha,286605431.0,148956475.0
+fm_2026_02_kpo_diklat_laba_sebelum_pajak,snapshot_istantoro_2022_mar_2026,2026-02,monthly,2026,2.0,KPO - DIKLAT,laba_sebelum_pajak,276041013.0,152423290.0
+fm_2026_02_kpo_training_pendapatan,snapshot_istantoro_2022_mar_2026,2026-02,monthly,2026,2.0,KPO - TRAINING,pendapatan,656435530.0,233654837.0
+fm_2026_02_kpo_training_beban_operasional,snapshot_istantoro_2022_mar_2026,2026-02,monthly,2026,2.0,KPO - TRAINING,beban_operasional,406058728.0,199838851.0
+fm_2026_02_kpo_training_pendapatan_non_operasional,snapshot_istantoro_2022_mar_2026,2026-02,monthly,2026,2.0,KPO - TRAINING,pendapatan_non_operasional,1244223.0,488525.0
+fm_2026_02_kpo_training_beban_non_operasional,snapshot_istantoro_2022_mar_2026,2026-02,monthly,2026,2.0,KPO - TRAINING,beban_non_operasional,128364.0,55372.0
+fm_2026_02_kpo_training_laba_usaha,snapshot_istantoro_2022_mar_2026,2026-02,monthly,2026,2.0,KPO - TRAINING,laba_usaha,249234348.0,23361242.0
+fm_2026_02_kpo_training_laba_sebelum_pajak,snapshot_istantoro_2022_mar_2026,2026-02,monthly,2026,2.0,KPO - TRAINING,laba_sebelum_pajak,242215325.0,23038175.0
+fm_2026_03_mpo_tad_pendapatan,snapshot_istantoro_2022_mar_2026,2026-03,monthly,2026,3.0,MPO - TAD,pendapatan,382839600846.0,244124075633.0
+fm_2026_03_mpo_tad_beban_operasional,snapshot_istantoro_2022_mar_2026,2026-03,monthly,2026,3.0,MPO - TAD,beban_operasional,339435902608.0,219765371897.0
+fm_2026_03_mpo_tad_pendapatan_non_operasional,snapshot_istantoro_2022_mar_2026,2026-03,monthly,2026,3.0,MPO - TAD,pendapatan_non_operasional,464561115.0,510426551.0
+fm_2026_03_mpo_tad_beban_non_operasional,snapshot_istantoro_2022_mar_2026,2026-03,monthly,2026,3.0,MPO - TAD,beban_non_operasional,170837158.0,57698351.0
+fm_2026_03_mpo_tad_laba_usaha,snapshot_istantoro_2022_mar_2026,2026-03,monthly,2026,3.0,MPO - TAD,laba_usaha,30700326535.0,16213914497.0
+fm_2026_03_mpo_tad_laba_sebelum_pajak,snapshot_istantoro_2022_mar_2026,2026-03,monthly,2026,3.0,MPO - TAD,laba_sebelum_pajak,30216716423.0,16665153356.0
+fm_2026_03_mpo_rab_pendapatan,snapshot_istantoro_2022_mar_2026,2026-03,monthly,2026,3.0,MPO - RAB,pendapatan,1559042227.0,3598294854.0
+fm_2026_03_mpo_rab_beban_operasional,snapshot_istantoro_2022_mar_2026,2026-03,monthly,2026,3.0,MPO - RAB,beban_operasional,290174465.0,1400445182.0
+fm_2026_03_mpo_rab_pendapatan_non_operasional,snapshot_istantoro_2022_mar_2026,2026-03,monthly,2026,3.0,MPO - RAB,pendapatan_non_operasional,2118913.0,7878717.0
+fm_2026_03_mpo_rab_beban_non_operasional,snapshot_istantoro_2022_mar_2026,2026-03,monthly,2026,3.0,MPO - RAB,beban_non_operasional,764009.0,866672.0
+fm_2026_03_mpo_rab_laba_usaha,snapshot_istantoro_2022_mar_2026,2026-03,monthly,2026,3.0,MPO - RAB,laba_usaha,1339126945.0,2373374083.0
+fm_2026_03_mpo_rab_laba_sebelum_pajak,snapshot_istantoro_2022_mar_2026,2026-03,monthly,2026,3.0,MPO - RAB,laba_sebelum_pajak,1384918043.0,2389983103.0
+fm_2026_03_bpo_pendapatan,snapshot_istantoro_2022_mar_2026,2026-03,monthly,2026,3.0,BPO,pendapatan,17387231099.0,24296549898.0
+fm_2026_03_bpo_beban_operasional,snapshot_istantoro_2022_mar_2026,2026-03,monthly,2026,3.0,BPO,beban_operasional,16931636592.0,21557120944.0
+fm_2026_03_bpo_pendapatan_non_operasional,snapshot_istantoro_2022_mar_2026,2026-03,monthly,2026,3.0,BPO,pendapatan_non_operasional,23404407.0,51995823.0
+fm_2026_03_bpo_beban_non_operasional,snapshot_istantoro_2022_mar_2026,2026-03,monthly,2026,3.0,BPO,beban_non_operasional,7856452.0,5731601.0
+fm_2026_03_bpo_laba_usaha,snapshot_istantoro_2022_mar_2026,2026-03,monthly,2026,3.0,BPO,laba_usaha,451220622.0,2550964314.0
+fm_2026_03_bpo_laba_sebelum_pajak,snapshot_istantoro_2022_mar_2026,2026-03,monthly,2026,3.0,BPO,laba_sebelum_pajak,460224774.0,2646967784.0
+fm_2026_03_kpo_diklat_pendapatan,snapshot_istantoro_2022_mar_2026,2026-03,monthly,2026,3.0,KPO - DIKLAT,pendapatan,438387239.0,1548546747.0
+fm_2026_03_kpo_diklat_beban_operasional,snapshot_istantoro_2022_mar_2026,2026-03,monthly,2026,3.0,KPO - DIKLAT,beban_operasional,383105855.0,1394468099.0
+fm_2026_03_kpo_diklat_pendapatan_non_operasional,snapshot_istantoro_2022_mar_2026,2026-03,monthly,2026,3.0,KPO - DIKLAT,pendapatan_non_operasional,568786.0,3425864.0
+fm_2026_03_kpo_diklat_beban_non_operasional,snapshot_istantoro_2022_mar_2026,2026-03,monthly,2026,3.0,KPO - DIKLAT,beban_non_operasional,190425.0,374878.0
+fm_2026_03_kpo_diklat_laba_usaha,snapshot_istantoro_2022_mar_2026,2026-03,monthly,2026,3.0,KPO - DIKLAT,laba_usaha,47149895.0,141943566.0
+fm_2026_03_kpo_diklat_laba_sebelum_pajak,snapshot_istantoro_2022_mar_2026,2026-03,monthly,2026,3.0,KPO - DIKLAT,laba_sebelum_pajak,46897622.0,146114213.0
+fm_2026_03_kpo_training_pendapatan,snapshot_istantoro_2022_mar_2026,2026-03,monthly,2026,3.0,KPO - TRAINING,pendapatan,507422888.0,229411735.0
+fm_2026_03_kpo_training_beban_operasional,snapshot_istantoro_2022_mar_2026,2026-03,monthly,2026,3.0,KPO - TRAINING,beban_operasional,369560415.0,198643230.0
+fm_2026_03_kpo_training_pendapatan_non_operasional,snapshot_istantoro_2022_mar_2026,2026-03,monthly,2026,3.0,KPO - TRAINING,pendapatan_non_operasional,664448.0,501944.0
+fm_2026_03_kpo_training_beban_non_operasional,snapshot_istantoro_2022_mar_2026,2026-03,monthly,2026,3.0,KPO - TRAINING,beban_non_operasional,234769.0,54511.0
+fm_2026_03_kpo_training_laba_usaha,snapshot_istantoro_2022_mar_2026,2026-03,monthly,2026,3.0,KPO - TRAINING,laba_usaha,154868384.0,23062784.0
+fm_2026_03_kpo_training_laba_sebelum_pajak,snapshot_istantoro_2022_mar_2026,2026-03,monthly,2026,3.0,KPO - TRAINING,laba_sebelum_pajak,147022465.0,23657180.0
