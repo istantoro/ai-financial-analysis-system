@@ -1,7 +1,7 @@
 import { NextRequest, NextResponse } from "next/server";
 import { db } from "@/lib/db";
 import { financialMetrics, componentMetrics } from "@/lib/db/schema";
-import { eq, sql, and, lte } from "drizzle-orm";
+import { eq, sql, and, lte, inArray } from "drizzle-orm";
 
 async function fetchSegments(year: number, month: number, category: string) {
   return db
@@ -93,11 +93,57 @@ export async function GET(req: NextRequest) {
 
     // Fetch Level 2 (Segments)
     let dbCat = category.toLowerCase();
+    
+    // Special handling for Biaya Pemasaran (Row 4)
+    if (dbCat.includes("pemasaran") || dbCat.includes("adm umum")) {
+      const segments = [
+        'Biaya Pemasaran', 
+        'Biaya Remunerasi Pekerja', 
+        'Biaya Tenaga Kerja Lainnya',
+        'Biaya Penyusutan Aktiva Tetap', 
+        'Biaya Transportasi dan Perjalanan', 
+        'Biaya Operasional Kantor'
+      ];
+
+      const fetchCompSegments = async (y: number, m: number, isAnnual: boolean) => {
+        return db
+          .select({
+            label: componentMetrics.segment,
+            actual: sql<number>`COALESCE(SUM(${componentMetrics.actual}::numeric), 0)`,
+            target: sql<number>`COALESCE(SUM(${componentMetrics.target}::numeric), 0)`,
+          })
+          .from(componentMetrics)
+          .where(
+            and(
+              eq(componentMetrics.year, y),
+              isAnnual ? eq(componentMetrics.periodType, "annual") : and(eq(componentMetrics.periodType, "monthly"), lte(componentMetrics.month, m)),
+              inArray(componentMetrics.segment, segments)
+            )
+          )
+          .groupBy(componentMetrics.segment);
+      };
+
+      const [curr, pri, ann] = await Promise.all([
+        fetchCompSegments(year, month, false),
+        fetchCompSegments(year - 1, month, false),
+        fetchCompSegments(year - 1, 12, true)
+      ]);
+
+      return NextResponse.json({
+        success: true,
+        rows: curr.map(c => ({
+          ...c,
+          prior: pri.find(p => p.label === c.label)?.actual ?? 0,
+          annual: ann.find(a => a.label === c.label)?.actual ?? 0,
+          hasChildren: true
+        }))
+      });
+    }
+
     if (dbCat.includes("pendapatan")) dbCat = "pendapatan";
     else if (dbCat.includes("laba usaha")) dbCat = "laba_usaha";
     else if (dbCat.includes("biaya non ops") || dbCat.includes("beban non ops")) dbCat = "beban_non_operasional";
     else if (dbCat.includes("pendapatan non ops")) dbCat = "pendapatan_non_operasional";
-    else if (dbCat.includes("pemasaran")) dbCat = "beban";
     else dbCat = "beban_operasional";
 
     const [curr, pri, ann] = await Promise.all([

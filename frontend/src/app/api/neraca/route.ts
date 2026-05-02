@@ -1,4 +1,6 @@
 import { NextRequest, NextResponse } from "next/server";
+
+export const revalidate = 60;
 import { db } from "@/lib/db";
 import { neracaMetrics } from "@/lib/db/schema";
 import { eq, sql, and, lte } from "drizzle-orm";
@@ -55,7 +57,10 @@ export async function GET(req: NextRequest) {
       fetchNeracaAnnual(year - 1),
     ]);
 
-    return NextResponse.json({ success: true, current, prior, annual });
+    return NextResponse.json(
+      { success: true, current, prior, annual },
+      { headers: { "Cache-Control": "public, s-maxage=60, stale-while-revalidate=120" } }
+    );
   } catch (error) {
     console.error("[GET /api/neraca]", error);
     return NextResponse.json({ success: false, error: "Internal server error" }, { status: 500 });

@@ -47,14 +47,19 @@ export function TabRingkasan() {
 
   const calculateRow = (key: string, list: FinRow[], isTgt = false) => {
     const f = isTgt ? findTgt : findVal;
+    
+    // Check if the DB already provides this category (e.g. laba_usaha, laba_operasional, etc.)
+    const dbVal = list.find(r => r.category === key);
+    if (dbVal) return isTgt ? Number(dbVal.target) : Number(dbVal.actual);
+
+    // Fallback to manual calculation if DB row is missing
     if (key === "laba_usaha")       return f(list, "pendapatan") - f(list, "beban_operasional");
     if (key === "laba_operasional") {
-      const lu = f(list, "pendapatan") - f(list, "beban_operasional");
-      return lu - f(list, "beban"); // beban here is 'Biaya Pemasaran & Adm Umum' based on DB mapping
+      const lu = calculateRow("laba_usaha", list, isTgt);
+      return lu - f(list, "beban");
     }
     if (key === "laba_sebelum_pajak") {
-      const lu = f(list, "pendapatan") - f(list, "beban_operasional");
-      const lo = lu - f(list, "beban");
+      const lo = calculateRow("laba_operasional", list, isTgt);
       return lo + f(list, "pendapatan_non_operasional") - f(list, "beban_non_operasional");
     }
     return f(list, key);

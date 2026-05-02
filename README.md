@@ -34,11 +34,15 @@ FINAL PROJECT - DASHBOARD/
 └── .env                # API Keys & DB Connection String
 ```
 
+## ⚠️ Penting: Koneksi API & Database
+
+Aplikasi ini bersifat **Full-Stack**. Agar dashboard dapat menampilkan data dan fitur Chat AI dapat merespon, Anda **WAJIB** menghubungkan database Supabase dan API OpenAI. Tanpa langkah ini, dashboard akan tampil kosong (Error 500) dan fitur AI tidak akan berjalan.
+
 ## 📋 Prasyarat
 
 - Node.js v18 atau lebih baru.
-- Akun Supabase (PostgreSQL).
-- OpenAI API Key (GPT-4o).
+- Akun **Supabase** (untuk database PostgreSQL).
+- **OpenAI API Key** (untuk mesin analisis GPT-4o).
 
 ## ⚙️ Instalasi & Cara Menjalankan
 
@@ -53,11 +57,18 @@ FINAL PROJECT - DASHBOARD/
    npm install
    ```
 
-3. **Konfigurasi Environment Variable**
-   Buat file `.env` di folder root dan isi sebagai berikut:
+3. **Konfigurasi Environment Variable (.env)**
+   Aplikasi tidak akan terkoneksi ke database/AI tanpa file `.env`. 
+   
+   Buat file bernama `.env` di folder root project (atau copy dari `frontend/.env.example`) dan isi dengan key Anda:
    ```env
-   DATABASE_URL=postgresql://...
+   # Database: Ambil dari Supabase Project Settings > Database
+   DATABASE_URL=postgresql://postgres:[password]@aws-0...
+
+   # AI: Ambil dari OpenAI Dashboard
    OPENAI_API_KEY=sk-...
+
+   # Public Keys (Optional for client features)
    NEXT_PUBLIC_SUPABASE_URL=https://...
    NEXT_PUBLIC_SUPABASE_ANON_KEY=...
    ```
